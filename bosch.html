@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en-in">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="assets/images/fav.png"
+    />
+
+    <title>
+      Bosch Power Tools Pune | Authorized Dealer | Hakimi Tools Centre
+    </title>
+    <meta
+      name="description"
+      content="Official Bosch Power Tools dealer in Pune. Explore Bosch Blue Professional cordless drills, high-pressure washers, and industrial hardware at Hakimi Tools Centre."
+    />
+
+    <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css" />
+    <link rel="stylesheet" href="assets/css/plugins/swiper.css" />
+    <link rel="stylesheet" href="assets/css/plugins/unicons.css" />
+    <link rel="stylesheet" href="assets/css/plugins/metismenu.css" />
+
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/brands/products.css" />
+
+    <style>
+      :root {
+        --bosch-blue: #005691;
+        /* Bosch Professional Blue */
+        --bosch-red: #ed1c24;
+        /* Bosch Accent Red */
+      }
+
+      .feature-card {
+        transition: all 0.3s ease;
+        border: 1px solid #e9ecef;
+        border-radius: 12px;
+        background: #fff;
+      }
+
+      .feature-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+        border-color: var(--bosch-blue);
+      }
+
+      .btn-bosch {
+        background-color: var(--bosch-blue);
+        color: white;
+        border: none;
+        padding: 12px 35px;
+        font-weight: 600;
+        transition: 0.3s;
+      }
+
+      .btn-bosch:hover {
+        background-color: #00406c;
+        color: white;
+      }
+
+      .bosch-accent-line {
+        width: 60px;
+        height: 4px;
+        background: var(--bosch-red);
+        margin: 15px auto;
+      }
+    </style>
+  </head>
+
+  <body class="index-electrical">
+    <div id="header"></div>
+
+    <main style="padding-top: 150px; padding-bottom: 100px">
+      <div class="rts-bread-crumb-area ptb--65 bg_image bosch_bg_image">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="con-tent-main">
+                <div class="wrapper">
+                  <nav class="breadcrumbs">
+                    <a href="index.html" class="breadcrumbs__item">Home</a>
+                    <a href="dunlop.html" class="breadcrumbs__item is-active"
+                      >Bosch</a
+                    >
+                  </nav>
+                  <div class="title">
+                    <a href="#">Bosch</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section class="bosch-features">
+        <div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-lg-8 text-center">
+              <h2 class="fw-bold">Reliability In Every Turn</h2>
+              <p class="text-muted fs-5">
+                Serving Pune's industrial and construction needs with the
+                world's most trusted tool brand.
+              </p>
+            </div>
+          </div>
+          <div class="row g-4">
+            <div class="col-md-4">
+              <div class="feature-card p-5 text-center h-100">
+                <i
+                  class="fas fa-microchip fa-3x mb-4"
+                  style="color: #005b96"
+                ></i>
+                <h4 class="fw-bold">Smart Innovation</h4>
+                <p>
+                  Advanced features like Kickback Control and X-LOCK technology
+                  for safer, faster work.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="feature-card p-5 text-center h-100">
+                <i class="fas fa-tools fa-3x mb-4" style="color: #005b96"></i>
+                <h4 class="fw-bold">Blue Professional</h4>
+                <p>
+                  The standard for trade and industry, providing uncompromising
+                  power and longevity.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="feature-card p-5 text-center h-100">
+                <i
+                  class="fas fa-certificate fa-3x mb-4"
+                  style="color: #005b96"
+                ></i>
+                <h4 class="fw-bold">Local Warranty</h4>
+                <p>
+                  Full official Bosch India warranty support and genuine spares
+                  through Hakimi Tools Centre.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="d-flex product-range container">
+        <div class="w-75 me-5">
+          <div class="container py-5" id="productSection">
+            <div class="row mb-5">
+              <div class="col-12">
+                <h2 class="fw-bold text-center ps-3">
+                  Featured Bosch Inventory
+                </h2>
+              </div>
+            </div>
+            <div class="product-grid" id="productContainer"></div>
+            <div id="paginationWrapper" class="w-100 mt-5"></div>
+          </div>
+        </div>
+        <div class="col-xl-4 col-md-12 col-sm-12 col-12">
+          <!-- single wizered start -->
+          <div class="rts-single-wized Categories">
+            <div class="wized-header">
+              <h5 class="title">Brands</h5>
+            </div>
+            <div class="wized-body">
+              <!-- single categoris -->
+              <ul class="single-categories">
+                <li>
+                  <a href="makita.html"
+                    >Makita <i class="far fa-long-arrow-right"></i
+                  ></a>
+                </li>
+              </ul>
+              <!-- single categoris End -->
+              <!-- single categoris -->
+              <ul class="single-categories">
+                <li>
+                  <a href="hikoki.html"
+                    >Hikoki<i class="far fa-long-arrow-right"></i
+                  ></a>
+                </li>
+              </ul>
+              <!-- single categoris End -->
+              <!-- single categoris -->
+              <ul class="single-categories">
+                <li>
+                  <a href="dunlop.html"
+                    >Dunlop<i class="far fa-long-arrow-right"></i
+                  ></a>
+                </li>
+              </ul>
+              <!-- single categoris End -->
+              <!-- single categoris -->
+              <ul class="single-categories">
+                <li>
+                  <a href="bosch.html"
+                    >Bosch<i class="far fa-long-arrow-right"></i
+                  ></a>
+                </li>
+              </ul>
+              <!-- single categoris End -->
+              <!-- single categoris -->
+
+              <!-- single categoris End -->
+            </div>
+          </div>
+          <!-- single wizered End -->
+          <!-- single wizered start -->
+          <!-- <div class="rts-single-wized Recent-post">
+            <div class="wized-header">
+              <h5 class="title">Recent Posts</h5>
+            </div>
+            <div class="wized-body">
+              <div class="recent-post-single">
+                <div class="thumbnail">
+                  <a href="#"
+                    ><img src="assets/images/blog/19.jpg" alt="Blog_post"
+                  /></a>
+                </div>
+                <div class="content-area text-start">
+                  <div class="user">
+                    <i class="fal fa-clock"></i>
+                    <span>15 Jan, 2026</span>
+                  </div>
+                  <a class="post-title" href="#">
+                    <h6 class="title">
+                      We would love to share a similar experience
+                    </h6>
+                  </a>
+                </div>
+              </div>
+           
+              <div class="recent-post-single">
+                <div class="thumbnail">
+                  <a href="#"
+                    ><img src="assets/images/blog/20.jpg" alt="Blog_post"
+                  /></a>
+                </div>
+                <div class="content-area text-start">
+                  <div class="user">
+                    <i class="fal fa-clock"></i>
+                    <span>15 Jan, 2026</span>
+                  </div>
+                  <a class="post-title" href="#">
+                    <h6 class="title">
+                      We would love to share a similar experience
+                    </h6>
+                  </a>
+                </div>
+              </div>
+         
+              <div class="recent-post-single">
+                <div class="thumbnail">
+                  <a href="#"
+                    ><img src="assets/images/blog/21.jpg" alt="Blog_post"
+                  /></a>
+                </div>
+                <div class="content-area text-start">
+                  <div class="user">
+                    <i class="fal fa-clock"></i>
+                    <span>15 Jan, 2026</span>
+                  </div>
+                  <a class="post-title" href="#">
+                    <h6 class="title">
+                      We would love to share a similar experience
+                    </h6>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div> -->
+          <!-- single wizered End -->
+
+          <!-- single wizered start -->
+          <div class="rts-single-wized">
+            <div class="wized-header">
+              <h5 class="title">Popular Tags</h5>
+            </div>
+            <div class="wized-body">
+              <div class="tags-wrapper">
+                <a>Bosch Power Tools </a>
+                <a>Bosch Authorized Dealer</a>
+                <a>Bosch Impact Wrench</a>
+                <a>Bosch Angle Grinder</a>
+                <a>Bosch Drill Machine</a>
+                <a>Hardware Tools Store</a>
+                <a>Construction Tools</a>
+                <a>Electric Power Tools</a>
+                <a>Cordless Tools</a>
+              </div>
+            </div>
+          </div>
+          <!-- single wizered End -->
+        </div>
+      </div>
+    </main>
+
+    <div id="footer"></div>
+
+    <div class="search-input-area">
+      <div class="container">
+        <div class="search-input-inner">
+          <div class="input-div">
+            <input
+              id="searchInput1"
+              class="search-input"
+              type="text"
+              placeholder="Search Bosch products..."
+            />
+            <button><i class="far fa-search"></i></button>
+          </div>
+        </div>
+      </div>
+      <div id="close" class="search-close-icon">
+        <i class="far fa-times"></i>
+      </div>
+    </div>
+
+    <div id="anywhere-home"></div>
+
+    <div id="elevate-load">
+      <div class="loader-wrapper">
+        <div class="lds-ellipsis">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="assets/js/plugins/jquery.min.js"></script>
+    <script src="assets/js/vendor/jqueryui.js"></script>
+    <script src="assets/js/plugins/swiper.js"></script>
+    <script src="assets/js/plugins/metismenu.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <script>
+      const container = document.getElementById("productContainer");
+      const paginationWrapper = document.getElementById("paginationWrapper");
+
+      const productsPerPage = 12;
+      let currentPage = 1;
+      let allProducts = [];
+
+      const fallbackProducts = [
+        {
+          name: "Bosch EasyAquatak 110 Bar Washer",
+          image: "assets/images/brand/bosch/prod-1.webp",
+        },
+      ];
+
+      function renderProducts(products) {
+        container.innerHTML = "";
+
+        const start = (currentPage - 1) * productsPerPage;
+        const end = start + productsPerPage;
+        const paginatedProducts = products.slice(start, end);
+
+        paginatedProducts.forEach((product) => {
+          container.innerHTML += `
+        <div class="card product-card h-100 p-3 shadow-sm text-center border-0">
+          <div class="img-container mb-3"
+               style="height: 220px; display: flex; align-items: center; justify-content: center;">
+            <img src="${product.image}"
+                 alt="${product.name}"
+                 class="img-fluid"
+                 style="max-height: 100%;">
+          </div>
+          <p class="fs-5 fw-bold text-dark mb-3">
+            ${product.name}
+          </p>
+        </div>
+      `;
+        });
+
+        renderPagination(products.length);
+      }
+
+      function renderPagination(totalProducts) {
+        const totalPages = Math.ceil(totalProducts / productsPerPage);
+        paginationWrapper.innerHTML = "";
+
+        if (totalPages <= 1) return;
+
+        let paginationHTML = `
+      <div class="d-flex justify-content-center">
+        <nav>
+          <ul class="pagination pagination-sm flex-wrap justify-content-center">
+    `;
+
+        // Previous
+        paginationHTML += `
+      <li class="page-item ${currentPage === 1 ? "disabled" : ""}">
+        <button class="page-link" onclick="changePage(${currentPage - 1})">
+          &laquo;
+        </button>
+      </li>
+    `;
+
+        // Show max 5 numbers
+        let startPage = Math.max(1, currentPage - 2);
+        let endPage = Math.min(totalPages, currentPage + 2);
+
+        if (currentPage <= 3) endPage = Math.min(5, totalPages);
+        if (currentPage > totalPages - 3)
+          startPage = Math.max(1, totalPages - 4);
+
+        for (let i = startPage; i <= endPage; i++) {
+          paginationHTML += `
+        <li class="page-item ${i === currentPage ? "active" : ""}">
+          <button class="page-link" onclick="changePage(${i})">
+            ${i}
+          </button>
+        </li>
+      `;
+        }
+
+        // Next
+        paginationHTML += `
+      <li class="page-item ${currentPage === totalPages ? "disabled" : ""}">
+        <button class="page-link" onclick="changePage(${currentPage + 1})">
+          &raquo;
+        </button>
+      </li>
+    `;
+
+        paginationHTML += `
+          </ul>
+        </nav>
+      </div>
+    `;
+
+        paginationWrapper.innerHTML = paginationHTML;
+      }
+
+      function changePage(page) {
+        const totalPages = Math.ceil(allProducts.length / productsPerPage);
+        if (page < 1 || page > totalPages) return;
+
+        currentPage = page;
+        renderProducts(allProducts);
+
+        window.scrollTo({
+          top: document.getElementById("productSection").offsetTop - 100,
+          behavior: "smooth",
+        });
+      }
+
+      fetch("assets/data/jpt-products.json")
+        .then((res) => {
+          if (!res.ok) throw new Error("JSON not found");
+          return res.json();
+        })
+        .then((data) => {
+          allProducts = data;
+          renderProducts(allProducts);
+        })
+        .catch((error) => {
+          console.warn("Using fallback products:", error);
+          allProducts = fallbackProducts;
+          renderProducts(allProducts);
+        });
+    </script>
+
+    <script>
+      // Component Loader
+      async function loadComponent(id, file) {
+        try {
+          const res = await fetch(file);
+          const data = await res.text();
+          document.getElementById(id).innerHTML = data;
+        } catch (e) {
+          console.error("Error loading:", file);
+        }
+      }
+      loadComponent("header", "header.html");
+      loadComponent("footer", "footer.html");
+    </script>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+/* Product Card Styling */
+.card {
+  border: 1px solid #e9ecef !important;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  background: #fff;
+}
+
+/* Hover Effect */
+.card:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08) !important;
+  border-color: var(
+    --color-primary,
+    #005691
+  ) !important; /* fallback to Bosch blue */
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+}
+
+.card h3 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.product-grid {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.about-makita-area,
+.hikoki-advantage,
+.bosch-features,
+.product-range {
+  padding-top: 12rem;
+}
+
+.bg_image {
+  opacity: 0.7;
+}
+
+.makita_bg_image {
+  background-image: url("../../images/product/makita-banner.png");
+}
+
+.hikoki_bg_image {
+  background-image: url("../../images/product/hikoki-banner.png");
+}
+.dunlop_bg_image {
+  background-image: url("../../images/product/dunlop-banner.png");
+}
+
+.bosch_bg_image {
+  background-image: url("../../images/product/bosch-banner.png");
+}
+
+.measuringTool_bg_image {
+  background-image: url("../../images/product/measuringTool_banner1.png");
+}

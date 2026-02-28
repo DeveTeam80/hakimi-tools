@@ -1,0 +1,241 @@
+.appoinment-inner-content-wrapper{
+    padding: 30px 100px 30px 0;
+    @media #{$md-layout} {
+        padding: 35px;
+    }
+    @media #{$sm-layout} {
+        padding: 25px;
+    }
+}
+.appoinment-m-thumb{
+    position: relative;
+    z-index: 5;
+    img{
+        width: 100%;
+    }
+}
+.appoinment-m-thumb .inner-wrapper {
+    position: absolute;
+    bottom: 80px;
+    padding: 35px 50px 35px 40px;
+    background: var(--color-primary);
+    display: flex;
+    align-items: center;
+    margin-left: -100px;
+    // animation: jump-2 5s linear infinite;
+    border-radius: 100px;
+    z-index: 5;
+    animation: jump-1 20s linear infinite;
+    @media #{$sm-layout} {
+        margin-left: -30px;
+    }
+    @media #{$large-mobile} {
+        margin-left: 40px;
+    }
+    &::after{
+        position: absolute;
+        content: '';
+        left: -15px;
+        top: -15px;
+        width: 100%;
+        height: 100%;
+        border-radius: 100px;
+        background: #1F1F25;
+        z-index: -1;
+        animation: jump-1 10s linear infinite;
+    }
+    h6{
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 60px;
+        color: #FFF;
+        margin-right: 20px;
+        @media #{$small-mobile} {
+            font-size: 37px;
+            line-height: 31px;
+        }
+    }
+    span{
+        color: #fff;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        margin-top: -10px;
+        @media #{$small-mobile} {
+            font-size: 16px;
+            line-height: 21px;
+        }
+    }
+}
+.bg-appoinment{
+    background: #F6F6F6;
+}
+
+form.appoinment-form .input-half-wrapper .single-input input {
+    height: 60px;
+    background: #FFFFFF;
+    display: block;
+    padding: 0 30px;
+    border: 1px solid transparent;
+}
+form.appoinment-form .input-half-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 26px;
+}
+
+form.appoinment-form select {
+    height: 60px;
+    background: #FFFFFF;
+    display: block;
+    margin-top: 25px;
+    padding: 0 30px;
+    border: 1px solid #EAEAEA;
+    box-shadow: 0px 4px 47px rgba(0, 0, 0, 0.01);
+    border-radius: 33px;
+}
+form.appoinment-form select option {
+    border-radius: 0;
+    padding: 5px 6px;
+}
+form.appoinment-form .input-half-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 26px;
+    @media #{$small-mobile} {
+        gap: 8px;
+    }
+}
+form.appoinment-form .input-half-wrapper .single-input {
+    display: block;
+    width: 50%;
+}
+form.appoinment-form .input-half-wrapper .single-input input {
+    height: 60px;
+    background: #FFFFFF;
+    display: block;
+    padding: 0 30px;
+    border: 1px solid transparent;
+    border-radius: 33px;
+    border: 1px solid #EAEAEA;
+    box-shadow: 0px 4px 47px rgba(0, 0, 0, 0.01);
+}
+
+.bg-appoinment-m{
+    background-image: url(../images/appoinment/02.jpg);
+}
+
+.rts-appoinment-main-area{
+    .content-appoinment-m{
+        p.disc{
+            width: 75%;
+            @media #{$sm-layout} {
+                width: 95%;
+            }
+            @media #{$large-mobile} {
+                width: 100%;
+            }
+        }
+    }
+}
+
+.appoinment-form-m{
+    clip-path: polygon(8% 0, 100% 0, 100% 100%, 0% 100%);
+    background: #fff;
+    padding: 95px;
+    border-radius: 7px;
+    margin-left: -90px;
+    @media #{$md-layout} {
+        clip-path:none;
+        background: #fff;
+        padding: 32px 70px;
+        margin-left: 0;
+    }
+    @media #{$sm-layout} {
+        padding: 25px;
+        clip-path:none;
+        background: #fff;
+        margin-left: 0;
+    }
+    .half-input{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+    input{
+        background: #F7F7F7;
+        border-radius: 100px;
+        height: 60px;
+        margin-bottom: 24px;
+        padding: 5px 20px;
+        border: 1px solid transparent;
+        &:focus{
+            border: 1px solid #1F1F25;
+            box-shadow: 0px 7px 35px rgba(0, 0, 0, 0.07);
+            border-radius: 100px;
+            background: #FFFFFF;
+        }
+    }
+}
+
+.appoinment-deal-area{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-right: -90px;
+    @media #{$md-layout} {
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+    @media #{$sm-layout} {
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+    @media #{$large-mobile} {
+        flex-direction: column;
+    }
+    .single-deal{
+        padding: 38px 25px;
+        text-align: center;
+        background: #ffff;
+        border-radius: 7px;
+        height: 100%;
+        width: 200px;
+        @media #{$smlg-device} {
+            padding: 10px;
+        }
+        &.large-img{
+            padding: 0;
+            width: max-content;
+        }
+        .icon{
+            height: 80px;
+            width: 80px;
+            border-radius: 50%;
+            background: #FEF6ED;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+            margin-bottom: 9px;
+            @media #{$smlg-device} {
+                margin-bottom: 0;
+            }
+        }
+        h3{
+            margin-bottom: -5px;
+            @media #{$smlg-device} {
+                font-size: 24px;
+            }
+            span{
+                margin-bottom: 0;
+            }
+        }
+        span.sm{
+            margin-top: -3px;
+        }
+    }
+}

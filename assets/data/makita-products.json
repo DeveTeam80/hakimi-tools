@@ -1,0 +1,4072 @@
+[
+  {
+    "model": "CL200FD",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2026/02/CL200FD_PR_IMG.jpg"
+  },
+  {
+    "model": "AN760",
+    "name": "Pneumatic Pallet Coil Nailer",
+    "image": "https://makita.in/wp-content/uploads/2026/02/AN760_PR_IMG.jpg"
+  },
+  {
+    "model": "UB003G",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2026/02/UB003G_PR_IMG.jpg"
+  },
+  {
+    "model": "BO5030",
+    "name": "Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2026/02/BO3050_PR_IMG.jpg"
+  },
+  {
+    "model": "DTD158",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2026/02/DTD158_PR_IMG.jpg"
+  },
+  {
+    "model": "SC001G",
+    "name": "Cordless Steel Rod Cutter",
+    "image": "https://makita.in/wp-content/uploads/2026/02/SC001G_PR_IMG.jpg"
+  },
+  {
+    "model": "KP0810",
+    "name": "Power Planer",
+    "image": "https://makita.in/wp-content/uploads/2026/01/KP0810_PR_IMG.jpg"
+  },
+  {
+    "model": "DTM53",
+    "name": "Cordless Multi Tool",
+    "image": "https://makita.in/wp-content/uploads/2026/01/DTM53_PR_IMG.jpg"
+  },
+  {
+    "model": "HR012G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2026/01/HR012G.jpg"
+  },
+  {
+    "model": "HR011G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2026/01/HR011G_PR_IMG.jpg"
+  },
+  {
+    "model": "JR003G",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/12/JR003G_PR.jpg"
+  },
+  {
+    "model": "DUP181",
+    "name": "Cordless Pruning Shears",
+    "image": "https://makita.in/wp-content/uploads/2025/11/DUP181_PR_IMG.jpg"
+  },
+  {
+    "model": "HP003G",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/12/HP003G_PR_IMG.jpg"
+  },
+  {
+    "model": "DF003G",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/12/DF003G_PR_IMG.jpg"
+  },
+  {
+    "model": "BN002G",
+    "name": "Cordless Framing Nailer",
+    "image": "https://makita.in/wp-content/uploads/2025/12/BN002G_PR_IMG.jpg"
+  },
+  {
+    "model": "BN001G",
+    "name": "Cordless Framing Nailer",
+    "image": "https://makita.in/wp-content/uploads/2025/12/BN001G_PR_IMG.jpg"
+  },
+  {
+    "model": "DTD201",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2025/11/DTD201_PR_IMG.jpg"
+  },
+  {
+    "model": "UC031G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/10/UC031G_PR_IMG.jpg"
+  },
+  {
+    "model": "GA056G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/11/GA056G_PR_IMG.jpg"
+  },
+  {
+    "model": "GA055G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/11/GA055G_Pr_IMG.jpg"
+  },
+  {
+    "model": "HG001G",
+    "name": "Cordless Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2025/11/HG001G_PR_IMG.jpg"
+  },
+  {
+    "model": "DSC251",
+    "name": "Cordless Steel Rod Cutter",
+    "image": "https://makita.in/wp-content/uploads/2025/11/DSC251_PR.jpg"
+  },
+  {
+    "model": "TR001G",
+    "name": "Cordless Rebar Tying Tool",
+    "image": "https://makita.in/wp-content/uploads/2022/10/TR001G_PR_IMG.jpg"
+  },
+  {
+    "model": "DJR187",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/09/DJR187.png"
+  },
+  {
+    "model": "9556HP",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/10/9556HP_IMG.jpg"
+  },
+  {
+    "model": "DTL302",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/10/DTL302.jpg"
+  },
+  {
+    "model": "DTL301",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/10/DTL301_PR_IMG.jpg"
+  },
+  {
+    "model": "DTL300",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/10/DTL300_PR_IMG.jpg"
+  },
+  {
+    "model": "TD004G",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2025/10/TD004G_PR_IMG.jpg"
+  },
+  {
+    "model": "GD002G",
+    "name": "Cordless Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/09/GD002G_PR_IMG.jpg"
+  },
+  {
+    "model": "GD001G",
+    "name": "Cordless Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/09/GD001G_PR_IMG.jpg"
+  },
+  {
+    "model": "DHR242",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2025/09/DHR242_PR_IMG.jpg"
+  },
+  {
+    "model": "UC030G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/09/UC030G.jpg"
+  },
+  {
+    "model": "DJV186",
+    "name": "Cordless Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/09/DJV186_PR_IMG.jpg"
+  },
+  {
+    "model": "HB850",
+    "name": "Magnetic Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/09/hb850.jpg"
+  },
+  {
+    "model": "HB501",
+    "name": "Magnetic Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/09/HB501.jpg"
+  },
+  {
+    "model": "HB351",
+    "name": "Magnetic Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/09/HB351.jpg"
+  },
+  {
+    "model": "DCL181F",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2025/09/DCL181F_PR.jpg"
+  },
+  {
+    "model": "DDF490",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/08/DDF490_PR.jpg"
+  },
+  {
+    "model": "DHP490",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2025/08/DHP490.jpg"
+  },
+  {
+    "model": "VC014GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2025/08/VC014GL_image.jpg"
+  },
+  {
+    "model": "VC013GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2025/08/VC013GL_Z-Image.jpg"
+  },
+  {
+    "model": "DTW1005",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/08/DTW1005-Image.jpg"
+  },
+  {
+    "model": "TW011G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/08/800x800_image.jpg"
+  },
+  {
+    "model": "DBN601",
+    "name": "Cordless Finish Nailer",
+    "image": "https://makita.in/wp-content/uploads/2025/08/DBN601_JPEG-01-scaled.jpg"
+  },
+  {
+    "model": "DBN610",
+    "name": "Cordless Finish Nailer",
+    "image": "https://makita.in/wp-content/uploads/2025/06/DBN610_product-image-01-scaled.jpg"
+  },
+  {
+    "model": "DLM466",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2025/07/DLM466_PR.jpg"
+  },
+  {
+    "model": "KP312S",
+    "name": "Planer",
+    "image": "https://makita.in/wp-content/uploads/2025/06/KP312S.jpg"
+  },
+  {
+    "model": "GD0602",
+    "name": "Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/01/GD0600_ProductIMG.jpg"
+  },
+  {
+    "model": "DTC303",
+    "name": "Cordless Crimper",
+    "image": "https://makita.in/wp-content/uploads/2025/07/DTC303_PRIMG.jpg"
+  },
+  {
+    "model": "DTC302",
+    "name": "Cordless Crimper",
+    "image": "https://makita.in/wp-content/uploads/2025/07/DTC301_PR_IMG.jpg"
+  },
+  {
+    "model": "DTC301",
+    "name": "Cordless Crimper",
+    "image": "https://makita.in/wp-content/uploads/2025/07/DTC301_PR_IMG.jpg"
+  },
+  {
+    "model": "DGA408",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/06/DGA408.jpg"
+  },
+  {
+    "model": "GA5021C",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/06/GA5021C-800.jpg"
+  },
+  {
+    "model": "DJS131",
+    "name": "Cordless Metal Shear",
+    "image": "https://makita.in/wp-content/uploads/2025/06/DJS131_PrImg.jpg"
+  },
+  {
+    "model": "7104L",
+    "name": "Chain Mortiser",
+    "image": "https://makita.in/wp-content/uploads/2025/01/7104L.jpg"
+  },
+  {
+    "model": "UB001G",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2021/05/UB001G.jpg"
+  },
+  {
+    "model": "GA4040C",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/06/GA4040C.jpg"
+  },
+  {
+    "model": "ELM3320",
+    "name": "Electric Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2025/06/ELM3320_PR_IMG.jpg"
+  },
+  {
+    "model": "DTC102",
+    "name": "Cordless Cable Cutter",
+    "image": "https://makita.in/wp-content/uploads/2025/06/DTC102_PR_IMG.jpg"
+  },
+  {
+    "model": "DTW180",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/03/PR_IMG.jpg"
+  },
+  {
+    "model": "DTC103",
+    "name": "Cordless Cable Cutter",
+    "image": "https://makita.in/wp-content/uploads/2025/06/DTC103_PR_IMG.jpg"
+  },
+  {
+    "model": "DTC104",
+    "name": "Cordless Cable Cutter",
+    "image": "https://makita.in/wp-content/uploads/2025/06/DTC104_PR_IMG.jpg"
+  },
+  {
+    "model": "9565PCV",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/06/9565PCV.jpg"
+  },
+  {
+    "model": "CL004G",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2025/06/CL004G_PR_IMG.jpg"
+  },
+  {
+    "model": "AN943",
+    "name": "Pneumatic Framing Nailer",
+    "image": "https://makita.in/wp-content/uploads/2025/06/AN943_PR_IMG.jpg"
+  },
+  {
+    "model": "HR2670FT",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2024/12/HR2670_ActImg2.jpg"
+  },
+  {
+    "model": "HW151",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW151.jpg"
+  },
+  {
+    "model": "HW140",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW140.jpg"
+  },
+  {
+    "model": "UB002G",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2025/04/UB002G_PR_IMG.jpg"
+  },
+  {
+    "model": "DVC750L",
+    "name": "Cordless Portable Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DVC750L.jpg"
+  },
+  {
+    "model": "LH1201FL",
+    "name": "Table Top Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/04/Product-IMG.jpg"
+  },
+  {
+    "model": "BO007CG",
+    "name": "Battery Powered Orbital Sander",
+    "image": "https://makita.in/wp-content/uploads/2025/04/BO007CG.jpg"
+  },
+  {
+    "model": "PF1010",
+    "name": "Submersible Pump",
+    "image": "https://makita.in/wp-content/uploads/2025/03/PF1010.jpg"
+  },
+  {
+    "model": "PF1100",
+    "name": "Submersible Pump",
+    "image": "https://makita.in/wp-content/uploads/2025/03/PF1100.jpg"
+  },
+  {
+    "model": "GD0600",
+    "name": "Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2025/01/GD0600_ProductIMG.jpg"
+  },
+  {
+    "model": "DUV320",
+    "name": "Cordless Scarifier",
+    "image": "https://makita.in/wp-content/uploads/2023/10/DUV320_ACTIMG2.jpg"
+  },
+  {
+    "model": "BO006CG",
+    "name": "Battery Powered Orbital Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/08/BO006CG.jpg"
+  },
+  {
+    "model": "BO004CG",
+    "name": "Battery Powered Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/08/BO004CG.jpg"
+  },
+  {
+    "model": "BO003CG",
+    "name": "Battery Powered Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/08/BO003CG.jpg"
+  },
+  {
+    "model": "UN001G",
+    "name": "Cordless Pole Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2024/08/UN001G.jpg"
+  },
+  {
+    "model": "CE004G",
+    "name": "Cordless Power Cutter",
+    "image": "https://makita.in/wp-content/uploads/2024/08/CE004G.jpg"
+  },
+  {
+    "model": "UH021G",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2024/07/UH021G.jpg"
+  },
+  {
+    "model": "ML012G",
+    "name": "Cordless Bar Light",
+    "image": "https://makita.in/wp-content/uploads/2024/08/ML012G.jpg"
+  },
+  {
+    "model": "CE003G",
+    "name": "Cordless Power Cutter",
+    "image": "https://makita.in/wp-content/uploads/2024/08/CE003G.jpg"
+  },
+  {
+    "model": "RP001G",
+    "name": "Cordless Router",
+    "image": "https://makita.in/wp-content/uploads/2024/07/RP001G.jpg"
+  },
+  {
+    "model": "BO001CG",
+    "name": "Battery Powered Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/08/BO001CG.jpg"
+  },
+  {
+    "model": "DUA200",
+    "name": "Cordless Pole Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/10/DUA200.jpg"
+  },
+  {
+    "model": "TM001G",
+    "name": "Cordless Multi Tool",
+    "image": "https://makita.in/wp-content/uploads/2024/09/TM001G.jpg"
+  },
+  {
+    "model": "UE001G",
+    "name": "Cordless Edger",
+    "image": "https://makita.in/wp-content/uploads/2024/09/UE001G.jpg"
+  },
+  {
+    "model": "BO005CG",
+    "name": "Battery Powered Orbital Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/08/BO005CG.jpg"
+  },
+  {
+    "model": "BO002CG",
+    "name": "Battery Powered Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/08/BO002CG.jpg"
+  },
+  {
+    "model": "UH020G",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2024/07/UH020G.jpg"
+  },
+  {
+    "model": "HS013G",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/01/HS013G_PR_IMG.jpg"
+  },
+  {
+    "model": "AT2550A",
+    "name": "Wide Crown Stapler",
+    "image": "https://makita.in/wp-content/uploads/2025/01/AT2550A_PRODUCT.jpg"
+  },
+  {
+    "model": "UC029G",
+    "name": "Cordless Pruning Saw",
+    "image": "https://makita.in/wp-content/uploads/2025/02/UC029G.jpg"
+  },
+  {
+    "model": "DTL061",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/02/DTL061_PR_IMG.jpg"
+  },
+  {
+    "model": "AT1150A",
+    "name": "Medium Crown Stapler",
+    "image": "https://makita.in/wp-content/uploads/2025/01/AT1150A.jpg"
+  },
+  {
+    "model": "UV001G",
+    "name": "Cordless Scarifier",
+    "image": "https://makita.in/wp-content/uploads/2023/10/UV001G.jpg"
+  },
+  {
+    "model": "PS001G",
+    "name": "Cordless Polisher Scrubber",
+    "image": "https://makita.in/wp-content/uploads/2025/01/PS001G.jpg"
+  },
+  {
+    "model": "DTS141",
+    "name": "Cordless Oil-Pulse Driver",
+    "image": "https://makita.in/wp-content/uploads/2025/04/DTS141.jpg"
+  },
+  {
+    "model": "DRC200",
+    "name": "Robotic Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2024/10/DRC200_Pro_IMG.png"
+  },
+  {
+    "model": "GA5040C",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/09/GA5040C.jpg"
+  },
+  {
+    "model": "DUB185",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2024/10/DUB185.jpg"
+  },
+  {
+    "model": "DGA404",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/10/DGA404.jpg"
+  },
+  {
+    "model": "DC64WA",
+    "name": "Battery Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC64WA.jpg"
+  },
+  {
+    "model": "DC18WC",
+    "name": "Battery Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC18WC.jpg"
+  },
+  {
+    "model": "DC40WA",
+    "name": "Two Port Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC40WA.jpg"
+  },
+  {
+    "model": "DC40RC",
+    "name": "Fast Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC40RC.jpg"
+  },
+  {
+    "model": "DC40RB",
+    "name": "Two Port Multi Fast Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC40RB.jpg"
+  },
+  {
+    "model": "DC18RC",
+    "name": "Fast Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC18RC-1.jpg"
+  },
+  {
+    "model": "DC10WD",
+    "name": "Battery Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC10WD.jpg"
+  },
+  {
+    "model": "DC10SB",
+    "name": "Battery Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC10SB.jpg"
+  },
+  {
+    "model": "DC18SE",
+    "name": "Automotive Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC18SE.jpg"
+  },
+  {
+    "model": "DC18SD",
+    "name": "Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC18SD.jpg"
+  },
+  {
+    "model": "B-90635",
+    "name": "Battery & Two Port Fast Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/B-90635-scaled.jpg"
+  },
+  {
+    "model": "BL1041B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1041.jpg"
+  },
+  {
+    "model": "TW003G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2025/01/Pr_Img.jpg"
+  },
+  {
+    "model": "BL6440",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL6440.jpg"
+  },
+  {
+    "model": "BL64100",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL64100.png"
+  },
+  {
+    "model": "BL4080F",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL4080.jpg"
+  },
+  {
+    "model": "BL1016",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1016.jpg"
+  },
+  {
+    "model": "DC40RA",
+    "name": "Fast Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DC40RA.jpg"
+  },
+  {
+    "model": "BL1021B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1021B.jpg"
+  },
+  {
+    "model": "BL4040",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL4040.jpg"
+  },
+  {
+    "model": "BL1050B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1050B.jpg"
+  },
+  {
+    "model": "BL1860B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1860.jpg"
+  },
+  {
+    "model": "BL1850B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1850.jpg"
+  },
+  {
+    "model": "BL1815N",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL1815N.png"
+  },
+  {
+    "model": "BL4050F",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL4050.jpg"
+  },
+  {
+    "model": "DC18RD",
+    "name": "Two Port Fast Charger",
+    "image": "https://makita.in/wp-content/uploads/2025/01/DRC18RD.jpg"
+  },
+  {
+    "model": "BL1830B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/197599-5_BATTERY-BL1830B-SET_1.jpg"
+  },
+  {
+    "model": "BL1840B",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/197265-4_BATTERY-BL1840B-SET_1.jpg"
+  },
+  {
+    "model": "BL4025",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/191B41-0_1.jpg"
+  },
+  {
+    "model": "BL4040F",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/Bl4040F.jpg"
+  },
+  {
+    "model": "BL4020",
+    "name": "Battery",
+    "image": "https://makita.in/wp-content/uploads/2025/01/BL4020_1.jpg"
+  },
+  {
+    "model": "XPG01Z",
+    "name": "Cordless Grease Gun",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DGP180.jpg"
+  },
+  {
+    "model": "ML011G",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/12/ML001G.jpg"
+  },
+  {
+    "model": "HM0810TA",
+    "name": "Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2024/09/HM0810T.jpg"
+  },
+  {
+    "model": "9556HN",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/09/9556HN.jpg"
+  },
+  {
+    "model": "DHW180",
+    "name": "Cordless Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2024/09/DHW180.jpg"
+  },
+  {
+    "model": "M8103B",
+    "name": "Hammer Drill",
+    "image": "https://makita.in/wp-content/uploads/2024/09/M8103B.jpg"
+  },
+  {
+    "model": "DP4021",
+    "name": "Drill",
+    "image": "https://makita.in/wp-content/uploads/2024/08/DP4021.jpg"
+  },
+  {
+    "model": "M2300B",
+    "name": "Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/08/M2300B.jpg"
+  },
+  {
+    "model": "DP4020",
+    "name": "Drill",
+    "image": "https://makita.in/wp-content/uploads/2024/08/DP4020.jpg"
+  },
+  {
+    "model": "DPT353",
+    "name": "Cordless Pin Nailer",
+    "image": "https://makita.in/wp-content/uploads/2024/07/DPT353.jpg"
+  },
+  {
+    "model": "DRT52",
+    "name": "Cordless Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2024/07/DRT52.jpg"
+  },
+  {
+    "model": "GA9090",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/06/GA9090.jpg"
+  },
+  {
+    "model": "GA7090",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/06/GA7090.jpg"
+  },
+  {
+    "model": "RP1800X05",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2024/06/RP1800X05.jpg"
+  },
+  {
+    "model": "DGD801",
+    "name": "Cordless Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/06/DGD801.jpg"
+  },
+  {
+    "model": "DGD800",
+    "name": "Cordless Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2024/06/DGD800.jpg"
+  },
+  {
+    "model": "HM004G",
+    "name": "Cordless Breaker",
+    "image": "https://makita.in/wp-content/uploads/2024/06/HM004G.jpg"
+  },
+  {
+    "model": "AF635",
+    "name": "Pneumatic Finish Nailer",
+    "image": "https://makita.in/wp-content/uploads/2024/05/AF635.jpg"
+  },
+  {
+    "model": "ML009G",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML009G.jpg"
+  },
+  {
+    "model": "ML007G",
+    "name": "Cordless Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML007G.jpg"
+  },
+  {
+    "model": "ML005G",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML005G.jpg"
+  },
+  {
+    "model": "ML006G",
+    "name": "Cordless Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML006G.jpg"
+  },
+  {
+    "model": "ML003G",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML003G.jpg"
+  },
+  {
+    "model": "ML002G",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML002G.jpg"
+  },
+  {
+    "model": "ML001G",
+    "name": "LED Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2024/05/ML001G-1.jpg"
+  },
+  {
+    "model": "UB004C",
+    "name": "Battery Powered Backpack Blower",
+    "image": "https://makita.in/wp-content/uploads/2024/05/UB004C.jpg"
+  },
+  {
+    "model": "UC023G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/05/UC023G.jpg"
+  },
+  {
+    "model": "UC022G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/05/UC022G.jpg"
+  },
+  {
+    "model": "UC021G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/05/UC021G.jpg"
+  },
+  {
+    "model": "VS001G",
+    "name": "Cordless Vacuum Sweeper",
+    "image": "https://makita.in/wp-content/uploads/2024/05/VS001G.jpg"
+  },
+  {
+    "model": "DST112",
+    "name": "Cordless Stapler",
+    "image": "https://makita.in/wp-content/uploads/2024/04/DST112.jpg"
+  },
+  {
+    "model": "DST221",
+    "name": "Cordless Stapler",
+    "image": "https://makita.in/wp-content/uploads/2024/04/DST221.jpg"
+  },
+  {
+    "model": "RM350D",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2024/04/RM350D.jpg"
+  },
+  {
+    "model": "DEZML101",
+    "name": "Rechargeable Grab Light",
+    "image": "https://makita.in/wp-content/uploads/2024/04/ML101.jpg"
+  },
+  {
+    "model": "USZML103",
+    "name": "Cordless LED Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/04/ML103.jpg"
+  },
+  {
+    "model": "DEYML106",
+    "name": "Cordless Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2024/04/ML106.jpg"
+  },
+  {
+    "model": "JPZML104",
+    "name": "Cordless LED Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/04/ML104.jpg"
+  },
+  {
+    "model": "DEZML187",
+    "name": "Rechargeable Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2024/04/ML187.jpg"
+  },
+  {
+    "model": "DEWDML801",
+    "name": "LED Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2024/04/DML801.jpg"
+  },
+  {
+    "model": "USZDML815",
+    "name": "LED Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DML815.jpg"
+  },
+  {
+    "model": "TW010G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2024/12/TW010G_IMG.jpg"
+  },
+  {
+    "model": "PP001G",
+    "name": "Cordless Hole Puncher",
+    "image": "https://makita.in/wp-content/uploads/2024/11/PP001G_Product.jpg"
+  },
+  {
+    "model": "PF0410",
+    "name": "Submersible Pump",
+    "image": "https://makita.in/wp-content/uploads/2024/11/PF0410_Product.jpg"
+  },
+  {
+    "model": "XGH01ZK",
+    "name": "Cordless Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2024/12/XGH01ZK.jpg"
+  },
+  {
+    "model": "TW002G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2024/12/Product.jpg"
+  },
+  {
+    "model": "TW009G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2024/12/tw009g.jpg"
+  },
+  {
+    "model": "HR2670",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2024/12/HR2670_ActImg2.jpg"
+  },
+  {
+    "model": "DTD173",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2024/11/Product-IMG.jpg"
+  },
+  {
+    "model": "VC2512L",
+    "name": "Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2024/11/VC2512L_ProductIMG.jpg"
+  },
+  {
+    "model": "VC3012L",
+    "name": "Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2024/11/VC3012L_ProductIMG.jpg"
+  },
+  {
+    "model": "BS001G",
+    "name": "Belt Sander",
+    "image": "https://makita.in/wp-content/uploads/2024/10/BS001G.jpg"
+  },
+  {
+    "model": "VC4210L",
+    "name": "Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2024/11/VC4210L_Act-IMG.jpg"
+  },
+  {
+    "model": "AN924",
+    "name": "Pneumatic Framing Nailer",
+    "image": "https://makita.in/wp-content/uploads/2024/03/AN924.jpg"
+  },
+  {
+    "model": "AC001G",
+    "name": "Cordless Air Compressor",
+    "image": "https://makita.in/wp-content/uploads/2024/03/AC001G.jpg"
+  },
+  {
+    "model": "PDC1500",
+    "name": "Portable Power Pack",
+    "image": "https://makita.in/wp-content/uploads/2024/03/PDC1500.jpg"
+  },
+  {
+    "model": "AN961",
+    "name": "Pneumatic Coil Nailer",
+    "image": "https://makita.in/wp-content/uploads/2024/02/AN961.jpg"
+  },
+  {
+    "model": "AN454",
+    "name": "Pneumatic Coil Nailer",
+    "image": "https://makita.in/wp-content/uploads/2024/02/AN454.jpg"
+  },
+  {
+    "model": "DML814",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/02/DML814.jpg"
+  },
+  {
+    "model": "DML813",
+    "name": "Cordless Worklight",
+    "image": "https://makita.in/wp-content/uploads/2024/02/DML813.jpg"
+  },
+  {
+    "model": "DCU601",
+    "name": "Battery Powered Wheelbarrow",
+    "image": "https://makita.in/wp-content/uploads/2024/02/DCU601.jpg"
+  },
+  {
+    "model": "2107FK",
+    "name": "Portable Band Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/02/2107F.jpg"
+  },
+  {
+    "model": "LS1110F",
+    "name": "Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2024/02/LS1110F.jpg"
+  },
+  {
+    "model": "WT001G",
+    "name": "Cordless Shear Wrench",
+    "image": "https://makita.in/wp-content/uploads/2024/02/WT001G.jpg"
+  },
+  {
+    "model": "VC010G",
+    "name": "Cordless Upright Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2024/01/VC010G.jpg"
+  },
+  {
+    "model": "DTC101",
+    "name": "Cordless Cable Cutter",
+    "image": "https://makita.in/wp-content/uploads/2024/01/DTC101.jpg"
+  },
+  {
+    "model": "DTC100",
+    "name": "Cordless Cable Cutter",
+    "image": "https://makita.in/wp-content/uploads/2024/01/DTC100.jpg"
+  },
+  {
+    "model": "DJN161",
+    "name": "Cordless Nibbler",
+    "image": "https://makita.in/wp-content/uploads/2024/01/DJN161.jpg"
+  },
+  {
+    "model": "DJS130",
+    "name": "Cordless Metal Shear",
+    "image": "https://makita.in/wp-content/uploads/2024/01/DJS130.jpg"
+  },
+  {
+    "model": "DJS200",
+    "name": "Cordless Metal Shear",
+    "image": "https://makita.in/wp-content/uploads/2024/01/DJS200.jpg"
+  },
+  {
+    "model": "DUP180",
+    "name": "Battery Powered Pruning Shears",
+    "image": "https://makita.in/wp-content/uploads/2024/01/DUP180.jpg"
+  },
+  {
+    "model": "VC011G",
+    "name": "Cordless Backpack Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2024/01/VC011G.jpg"
+  },
+  {
+    "model": "UB003C",
+    "name": "Battery Powered Blower",
+    "image": "https://makita.in/wp-content/uploads/2023/12/UB003C.jpg"
+  },
+  {
+    "model": "JV002G",
+    "name": "Cordless Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/12/JV002G-1.jpg"
+  },
+  {
+    "model": "DCU602",
+    "name": "Battery Powered Wheelbarrow",
+    "image": "https://makita.in/wp-content/uploads/2023/12/DCU602.jpg"
+  },
+  {
+    "model": "CW002G",
+    "name": "Cordless Cooler & Warmer Box",
+    "image": "https://makita.in/wp-content/uploads/2023/12/CW002G.jpg"
+  },
+  {
+    "model": "HR010G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2023/11/HR010G.jpg"
+  },
+  {
+    "model": "LM004G",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2023/10/LM004G.jpg"
+  },
+  {
+    "model": "LM003G",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2023/10/LM003G.jpg"
+  },
+  {
+    "model": "LS0816F",
+    "name": "Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/10/LS0816F.jpg"
+  },
+  {
+    "model": "DCX201",
+    "name": "Battery Heated Base Layer Shirt",
+    "image": "https://makita.in/wp-content/uploads/2023/10/DCX201.jpg"
+  },
+  {
+    "model": "DF030D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2023/10/DF030D.jpg"
+  },
+  {
+    "model": "HW001G",
+    "name": "Cordless High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2023/09/HW001G.jpg"
+  },
+  {
+    "model": "DUC150",
+    "name": "Cordless Pruning Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/09/DUC150.jpg"
+  },
+  {
+    "model": "HP488D",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2023/09/HP488D.jpg"
+  },
+  {
+    "model": "DMC300",
+    "name": "Cordless Compact Cut Off",
+    "image": "https://makita.in/wp-content/uploads/2023/08/DMC300.jpg"
+  },
+  {
+    "model": "DDG461",
+    "name": "Cordless Earth Auger",
+    "image": "https://makita.in/wp-content/uploads/2023/08/DDG461.jpg"
+  },
+  {
+    "model": "JV001G",
+    "name": "Cordless Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/07/JV001G.jpg"
+  },
+  {
+    "model": "DDF489",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2023/07/DDF489.jpg"
+  },
+  {
+    "model": "GA051G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/07/GA051G.jpg"
+  },
+  {
+    "model": "GA050G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/07/GA050G.jpg"
+  },
+  {
+    "model": "GA048G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/07/GA048G.jpg"
+  },
+  {
+    "model": "DG002G",
+    "name": "Cordless Earth Auger",
+    "image": "https://makita.in/wp-content/uploads/2023/06/DG002G.jpg"
+  },
+  {
+    "model": "CE002G",
+    "name": "Cordless Power Cutter",
+    "image": "https://makita.in/wp-content/uploads/2023/06/CE002G.jpg"
+  },
+  {
+    "model": "TD002G",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2023/06/TD002G.jpg"
+  },
+  {
+    "model": "TW202D",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2023/06/TW202D.jpg"
+  },
+  {
+    "model": "LM004J",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2023/05/LM004J.jpg"
+  },
+  {
+    "model": "LM003J",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2023/05/LM003J.jpg"
+  },
+  {
+    "model": "DHP489",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2023/05/DHP489.jpg"
+  },
+  {
+    "model": "DRC300",
+    "name": "Robotic Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2023/04/DRC300.jpg"
+  },
+  {
+    "model": "GA5092",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/04/GA5092.jpg"
+  },
+  {
+    "model": "GA5091",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/04/GA5091.jpg"
+  },
+  {
+    "model": "GA5090",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/04/GA5090.jpg"
+  },
+  {
+    "model": "GA5095",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/04/GA5095.jpg"
+  },
+  {
+    "model": "GA5093",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2023/04/GA5093.jpg"
+  },
+  {
+    "model": "DJV185",
+    "name": "Cordless Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/04/DJV185.jpg"
+  },
+  {
+    "model": "DHR183",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2023/04/DHR183.jpg"
+  },
+  {
+    "model": "UR016G",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2023/04/UR016G.jpg"
+  },
+  {
+    "model": "DAS180",
+    "name": "Cordless Dust Blower",
+    "image": "https://makita.in/wp-content/uploads/2023/04/DAS180.jpg"
+  },
+  {
+    "model": "DCL284F",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2023/03/DCL284F_white.jpg"
+  },
+  {
+    "model": "UP100D",
+    "name": "Cordless Pruning Shears",
+    "image": "https://makita.in/wp-content/uploads/2023/03/UP100D.jpg"
+  },
+  {
+    "model": "PM001G",
+    "name": "Cordless Backpack Mist Blower",
+    "image": "https://makita.in/wp-content/uploads/2023/03/PM001G.jpg"
+  },
+  {
+    "model": "DUH607",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2023/02/DUH607.jpg"
+  },
+  {
+    "model": "VC006GM",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2023/02/VC006GM.jpg"
+  },
+  {
+    "model": "DCU605",
+    "name": "Battery Powered Wheelbarrow",
+    "image": "https://makita.in/wp-content/uploads/2023/01/DCU605.jpg"
+  },
+  {
+    "model": "DCU604",
+    "name": "Battery Powered Wheelbarrow",
+    "image": "https://makita.in/wp-content/uploads/2023/01/DCU604.jpg"
+  },
+  {
+    "model": "DCU603",
+    "name": "Battery Powered Wheelbarrow",
+    "image": "https://makita.in/wp-content/uploads/2023/01/DCU603.jpg"
+  },
+  {
+    "model": "UR013G",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2023/01/UR013G.jpg"
+  },
+  {
+    "model": "HS012G",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/01/HS012G.jpg"
+  },
+  {
+    "model": "DUH507",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2023/01/DUH507.jpg"
+  },
+  {
+    "model": "DUB187",
+    "name": "Cordless Blower Vacuum",
+    "image": "https://makita.in/wp-content/uploads/2023/01/DUB187.jpg"
+  },
+  {
+    "model": "UC100D",
+    "name": "Cordless Pruning Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/01/UC100D.jpg"
+  },
+  {
+    "model": "DUC101",
+    "name": "Cordless Pruning Saw",
+    "image": "https://makita.in/wp-content/uploads/2023/01/DUC101.jpg"
+  },
+  {
+    "model": "LM002G",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/12/LM002G.jpg"
+  },
+  {
+    "model": "LM001G",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/12/LM001G.jpg"
+  },
+  {
+    "model": "UT001G",
+    "name": "Cordless Mixer",
+    "image": "https://makita.in/wp-content/uploads/2022/12/UT001G.jpg"
+  },
+  {
+    "model": "VR004C",
+    "name": "Cordless Concrete Vibrator",
+    "image": "https://makita.in/wp-content/uploads/2022/12/VR004C.jpg"
+  },
+  {
+    "model": "VR003C",
+    "name": "Cordless Concrete Vibrator",
+    "image": "https://makita.in/wp-content/uploads/2022/12/VR003C.jpg"
+  },
+  {
+    "model": "VR002C",
+    "name": "Cordless Concrete Vibrator",
+    "image": "https://makita.in/wp-content/uploads/2022/12/VR002C.jpg"
+  },
+  {
+    "model": "VR001C",
+    "name": "Cordless Concrete Vibrator",
+    "image": "https://makita.in/wp-content/uploads/2022/12/VR001C.jpg"
+  },
+  {
+    "model": "GA7082",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/12/GA7082.jpg"
+  },
+  {
+    "model": "GA7081",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/12/GA7081.jpg"
+  },
+  {
+    "model": "GA9082",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/12/GA9082.jpg"
+  },
+  {
+    "model": "GA9081",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/12/GA9081.jpg"
+  },
+  {
+    "model": "GA9080",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/12/GA9080.jpg"
+  },
+  {
+    "model": "GA7080",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/12/GA7080.jpg"
+  },
+  {
+    "model": "TD003G",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2022/11/TD003G.jpg"
+  },
+  {
+    "model": "DUH606",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2022/10/DUH606.jpg"
+  },
+  {
+    "model": "DUH506",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2022/10/DUH506.jpg"
+  },
+  {
+    "model": "DUR193",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2022/09/DUR193.jpg"
+  },
+  {
+    "model": "DUC357",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/09/DUC357.jpg"
+  },
+  {
+    "model": "DJR189",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/09/DJR189.jpg"
+  },
+  {
+    "model": "LM002J",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/09/LM002J.jpg"
+  },
+  {
+    "model": "LM001J",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/09/LM001J.jpg"
+  },
+  {
+    "model": "UB002C",
+    "name": "Battery Powered Backpack Blower",
+    "image": "https://makita.in/wp-content/uploads/2022/08/UB002C.jpg"
+  },
+  {
+    "model": "DUS108",
+    "name": "Cordless Garden Sprayer",
+    "image": "https://makita.in/wp-content/uploads/2022/08/DUS108.jpg"
+  },
+  {
+    "model": "DUS158",
+    "name": "Cordless Garden Sprayer",
+    "image": "https://makita.in/wp-content/uploads/2022/08/DUS158.jpg"
+  },
+  {
+    "model": "VR001G",
+    "name": "Cordless Concrete Vibrator",
+    "image": "https://makita.in/wp-content/uploads/2022/08/VR001G.jpg"
+  },
+  {
+    "model": "CW003G",
+    "name": "Cordless Cooler & Warmer Box",
+    "image": "https://makita.in/wp-content/uploads/2022/08/CW003G.jpg"
+  },
+  {
+    "model": "HR008G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2022/07/HR008G.jpg"
+  },
+  {
+    "model": "DBO482",
+    "name": "Cordless Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2022/07/DBO482.jpg"
+  },
+  {
+    "model": "DBO480",
+    "name": "Cordless Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2022/07/DBO480.jpg"
+  },
+  {
+    "model": "RT001G",
+    "name": "Cordless Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2022/07/RT001G.jpg"
+  },
+  {
+    "model": "CW001G",
+    "name": "Cordless Cooler & Warmer Box",
+    "image": "https://makita.in/wp-content/uploads/2022/07/CW001G.jpg"
+  },
+  {
+    "model": "CL003G",
+    "name": "Cordless Cleaner with Cyclone Attachment",
+    "image": "https://makita.in/wp-content/uploads/2022/07/CL003G.jpg"
+  },
+  {
+    "model": "PV001G",
+    "name": "Cordless Polisher",
+    "image": "https://makita.in/wp-content/uploads/2022/06/PV001G.jpg"
+  },
+  {
+    "model": "PB002G",
+    "name": "Cordless Portable Band Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/06/PB002G.jpg"
+  },
+  {
+    "model": "PT001G",
+    "name": "Cordless Pin Nailer",
+    "image": "https://makita.in/wp-content/uploads/2022/06/PT001G.jpg"
+  },
+  {
+    "model": "DVP181",
+    "name": "Cordless Vacuum Pump",
+    "image": "https://makita.in/wp-content/uploads/2022/05/DVP181.jpg"
+  },
+  {
+    "model": "VC008G",
+    "name": "Cordless Backpack Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/05/VC008G.jpg"
+  },
+  {
+    "model": "SK700D",
+    "name": "Rechargeable Red Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2022/05/SK700D.jpg"
+  },
+  {
+    "model": "SK700GD",
+    "name": "Rechargeable Green Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2021/11/SK700GD.jpg"
+  },
+  {
+    "model": "DTD172",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2022/04/DTD172.jpg"
+  },
+  {
+    "model": "GA047G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/04/GA047G.jpg"
+  },
+  {
+    "model": "GA045G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2022/04/GA045G.jpg"
+  },
+  {
+    "model": "DHG181",
+    "name": "Cordless Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2022/04/DHG181.jpg"
+  },
+  {
+    "model": "PDC1200",
+    "name": "Portable Power Pack",
+    "image": "https://makita.in/wp-content/uploads/2022/04/PDC1200.jpg"
+  },
+  {
+    "model": "CE001G",
+    "name": "Cordless Power Cutter",
+    "image": "https://makita.in/wp-content/uploads/2022/04/CE001G-1.jpg"
+  },
+  {
+    "model": "UR012G",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2022/04/UR012G.jpg"
+  },
+  {
+    "model": "CS002G",
+    "name": "Cordless Metal Cutter",
+    "image": "https://makita.in/wp-content/uploads/2022/04/CS002G.jpg"
+  },
+  {
+    "model": "DJV184",
+    "name": "Cordless Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/04/DJV184.jpg"
+  },
+  {
+    "model": "JR002G",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/03/JR002G.jpg"
+  },
+  {
+    "model": "UC016G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/03/UC016G.jpg"
+  },
+  {
+    "model": "HS011G",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/03/HS011G.jpg"
+  },
+  {
+    "model": "HM1205C",
+    "name": "Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2022/03/HM1205C.jpg"
+  },
+  {
+    "model": "DLM230",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/02/DLM230.jpg"
+  },
+  {
+    "model": "DUR194",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2022/02/DUR194.jpg"
+  },
+  {
+    "model": "VC005GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/02/VC005GL.jpg"
+  },
+  {
+    "model": "VC004GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/02/VC004GL.jpg"
+  },
+  {
+    "model": "KP001G",
+    "name": "Cordless Planer",
+    "image": "https://makita.in/wp-content/uploads/2022/02/KP001G.jpg"
+  },
+  {
+    "model": "DHG180",
+    "name": "Cordless Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2022/02/DHG180.jpg"
+  },
+  {
+    "model": "VC003GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/02/VC003GL.jpg"
+  },
+  {
+    "model": "VC002GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/02/VC002GL.jpg"
+  },
+  {
+    "model": "VC001GL",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/02/VC001GL.jpg"
+  },
+  {
+    "model": "DCC501",
+    "name": "Cordless Cutter",
+    "image": "https://makita.in/wp-content/uploads/2022/01/DCC501.jpg"
+  },
+  {
+    "model": "CL002G",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2022/01/CL002G.jpg"
+  },
+  {
+    "model": "UA003G",
+    "name": "Cordless Telescopic Pole Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/01/UA003G.jpg"
+  },
+  {
+    "model": "UA004G",
+    "name": "Cordless Telescopic Pole Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/01/UA004G.jpg"
+  },
+  {
+    "model": "HS009G",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2022/01/HS009G.jpg"
+  },
+  {
+    "model": "DLM330",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/01/DLM330.jpg"
+  },
+  {
+    "model": "DLM480",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/01/DLM480.jpg"
+  },
+  {
+    "model": "DLM481",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2022/01/DLM481.jpg"
+  },
+  {
+    "model": "AS001G",
+    "name": "Cordless Dust Blower",
+    "image": "https://makita.in/wp-content/uploads/2022/01/AS001G.jpg"
+  },
+  {
+    "model": "DLM538",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2021/12/DLM538_MA_im_1.jpg"
+  },
+  {
+    "model": "DLM539",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2021/12/DLM539_MA_im_1.jpg"
+  },
+  {
+    "model": "UH014G",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/12/UH014G.jpg"
+  },
+  {
+    "model": "UH013G",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/12/UH013G.jpg"
+  },
+  {
+    "model": "UH007G",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/12/UH007G.jpg"
+  },
+  {
+    "model": "UH006G",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/12/UH006G.jpg"
+  },
+  {
+    "model": "HR007G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/12/HR007G.jpg"
+  },
+  {
+    "model": "RT0702C",
+    "name": "Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/12/RT0702C.jpg"
+  },
+  {
+    "model": "RP1111C",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2021/12/RP2303FC.jpg"
+  },
+  {
+    "model": "RP2303FC",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2021/12/RP2303FC.jpg"
+  },
+  {
+    "model": "RP1802F",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2021/12/RP1802F.jpg"
+  },
+  {
+    "model": "DBO381",
+    "name": "Cordless Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2021/11/DBO381.jpg"
+  },
+  {
+    "model": "DBO380",
+    "name": "Cordless Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2021/11/DBO380.jpg"
+  },
+  {
+    "model": "UC006G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/11/UC006G.jpg"
+  },
+  {
+    "model": "UC003G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/11/UC003G.jpg"
+  },
+  {
+    "model": "UC002G",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/UC002G.jpg"
+  },
+  {
+    "model": "SK10GD",
+    "name": "Rechargeable Green Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2021/11/SK10GD.jpg"
+  },
+  {
+    "model": "SK20GD",
+    "name": "Rechargeable Green Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2021/11/SK20GD.jpg"
+  },
+  {
+    "model": "SK40GD",
+    "name": "Rechargeable Green Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2021/11/SK40GD.jpg"
+  },
+  {
+    "model": "M3602B",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2021/11/M3602_orig.jpg"
+  },
+  {
+    "model": "DA001G",
+    "name": "Cordless Angle Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/10/DA001G.jpg"
+  },
+  {
+    "model": "DG001G",
+    "name": "Cordless Earth Auger",
+    "image": "https://makita.in/wp-content/uploads/2021/10/DG001G.jpg"
+  },
+  {
+    "model": "GA9070",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/10/GA9070.jpg"
+  },
+  {
+    "model": "GA7070",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/10/GA7070.jpg"
+  },
+  {
+    "model": "LS003G",
+    "name": "Cordless Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/08/LS003G.jpg"
+  },
+  {
+    "model": "DMP181",
+    "name": "Cordless Inflator",
+    "image": "https://makita.in/wp-content/uploads/2021/08/DMP181.jpg"
+  },
+  {
+    "model": "MP001G",
+    "name": "Cordless Inflator",
+    "image": "https://makita.in/wp-content/uploads/2021/08/MP001G.jpg"
+  },
+  {
+    "model": "TW007G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2021/08/TW007G.jpg"
+  },
+  {
+    "model": "DJV181",
+    "name": "Cordless Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/08/DJV181.jpg"
+  },
+  {
+    "model": "US053D",
+    "name": "Cordless Garden Sprayer",
+    "image": "https://makita.in/wp-content/uploads/2021/08/US053D.jpg"
+  },
+  {
+    "model": "DUS054",
+    "name": "Cordless Garden Sprayer",
+    "image": "https://makita.in/wp-content/uploads/2021/08/DUS054.jpg"
+  },
+  {
+    "model": "LS004G",
+    "name": "Cordless Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/08/LS004G.jpg"
+  },
+  {
+    "model": "SP001G",
+    "name": "Cordless Plunge Cut Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/08/SP001G.jpg"
+  },
+  {
+    "model": "DHP487",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/07/DHP487.jpg"
+  },
+  {
+    "model": "HB350",
+    "name": "Magnetic Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/07/HB350.jpg"
+  },
+  {
+    "model": "UR007G",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/07/UR007G.jpg"
+  },
+  {
+    "model": "UR006G",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/07/UR006G.jpg"
+  },
+  {
+    "model": "CF002G",
+    "name": "Cordless Fan",
+    "image": "https://makita.in/wp-content/uploads/2021/07/CF002G.jpg"
+  },
+  {
+    "model": "DCF301",
+    "name": "Cordless Fan",
+    "image": "https://makita.in/wp-content/uploads/2021/07/DCF301.jpg"
+  },
+  {
+    "model": "DUN461W",
+    "name": "Cordless Pole Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/06/DUN461W.jpg"
+  },
+  {
+    "model": "UR002G",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2021/05/UR002G.jpg"
+  },
+  {
+    "model": "DSL801",
+    "name": "Cordless Drywall Sander",
+    "image": "https://makita.in/wp-content/uploads/2021/05/DSL801.jpg"
+  },
+  {
+    "model": "DFV214",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2021/05/DFV214A.jpg"
+  },
+  {
+    "model": "HR006G",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/05/HR006G.jpg"
+  },
+  {
+    "model": "GA5080R",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/05/GA5080R.jpg"
+  },
+  {
+    "model": "UB001C",
+    "name": "Battery Powered Blower",
+    "image": "https://makita.in/wp-content/uploads/2021/05/UB001C.jpg"
+  },
+  {
+    "model": "DDA450",
+    "name": "Cordless Angle Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/05/DDA450.jpg"
+  },
+  {
+    "model": "LM001C",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2021/05/LM001C.jpg"
+  },
+  {
+    "model": "DDF487",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/04/DDF487-1.jpg"
+  },
+  {
+    "model": "DTM52",
+    "name": "Cordless Multi Tool",
+    "image": "https://makita.in/wp-content/uploads/2021/04/DTM52.jpg"
+  },
+  {
+    "model": "HM1511",
+    "name": "Electric Breaker",
+    "image": "https://makita.in/wp-content/uploads/2021/04/HM1511.jpg"
+  },
+  {
+    "model": "DDF486",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF485.jpg"
+  },
+  {
+    "model": "DHP486",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/04/DHP486.jpg"
+  },
+  {
+    "model": "FN001G",
+    "name": "Cordless Brad Nailer",
+    "image": "https://makita.in/wp-content/uploads/2021/04/FN001G.jpg"
+  },
+  {
+    "model": "HR005G",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/04/HR005G.jpg"
+  },
+  {
+    "model": "HR2653",
+    "name": "Combination Hammer with Self Dust Collection",
+    "image": "https://makita.in/wp-content/uploads/2021/03/HR2652.jpg"
+  },
+  {
+    "model": "HR2652",
+    "name": "Combination Hammer with Self Dust Collection",
+    "image": "https://makita.in/wp-content/uploads/2021/03/HR2652.jpg"
+  },
+  {
+    "model": "RS001G",
+    "name": "Cordless Rear Handle Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/03/RS001G.jpg"
+  },
+  {
+    "model": "RS002G",
+    "name": "Cordless Rear Handle Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/03/RS002G.jpg"
+  },
+  {
+    "model": "DGP180",
+    "name": "Cordless Grease Gun",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DGP180_Pr_Recall_F.jpg"
+  },
+  {
+    "model": "DTD157",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DTD157.jpg"
+  },
+  {
+    "model": "HM002G",
+    "name": "Cordless Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/03/HM002G.jpg"
+  },
+  {
+    "model": "DCC500",
+    "name": "Cordless Dustless Cutter",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DCC500.jpg"
+  },
+  {
+    "model": "HM001G",
+    "name": "Cordless Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/03/HM001G.jpg"
+  },
+  {
+    "model": "HP002G",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/03/HP002G.jpg"
+  },
+  {
+    "model": "PV301D",
+    "name": "Cordless Sander Polisher",
+    "image": "https://makita.in/wp-content/uploads/2021/03/PV301D.jpg"
+  },
+  {
+    "model": "DPV300",
+    "name": "Cordless Sander Polisher",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DPV300.jpg"
+  },
+  {
+    "model": "VC2000L",
+    "name": "Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2021/03/VC2000L.jpg"
+  },
+  {
+    "model": "GA038G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/03/GA038G.jpg"
+  },
+  {
+    "model": "GA037G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/03/GA037G.jpg"
+  },
+  {
+    "model": "DCW180",
+    "name": "Cordless Cooler & Warmer Box",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DCW180.jpg"
+  },
+  {
+    "model": "DWR180",
+    "name": "Cordless Ratchet Wrench",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DWR180.jpg"
+  },
+  {
+    "model": "DUX18",
+    "name": "Cordless Multi Function Power Head",
+    "image": "https://makita.in/wp-content/uploads/2021/03/DUX18.jpg"
+  },
+  {
+    "model": "PDC01",
+    "name": "Portable Power Pack",
+    "image": "https://makita.in/wp-content/uploads/2021/03/PDC01.jpg"
+  },
+  {
+    "model": "M2403B",
+    "name": "Portable Cut-off",
+    "image": "https://makita.in/wp-content/uploads/2021/03/M2403.jpg"
+  },
+  {
+    "model": "DVC560",
+    "name": "Cordless Upright Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2021/02/DVC560.jpg"
+  },
+  {
+    "model": "DUA301",
+    "name": "Cordless Pole Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/02/DUA301.jpg"
+  },
+  {
+    "model": "DUA300",
+    "name": "Cordless Pole Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/02/DUA300.jpg"
+  },
+  {
+    "model": "GA036G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/02/GA036G.jpg"
+  },
+  {
+    "model": "GA035G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/02/GA035G.jpg"
+  },
+  {
+    "model": "HR3001C",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/02/HR3001C.jpg"
+  },
+  {
+    "model": "HR3011FC",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2021/02/HR3011FC.jpg"
+  },
+  {
+    "model": "DF002G",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/02/DF002G.jpg"
+  },
+  {
+    "model": "LS002G",
+    "name": "Cordless Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2021/02/LS002G.jpg"
+  },
+  {
+    "model": "DF488D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2021/01/DF488D.jpg"
+  },
+  {
+    "model": "UX01G",
+    "name": "Cordless Multi Function Power Head",
+    "image": "https://makita.in/wp-content/uploads/2021/01/UX01G.jpg"
+  },
+  {
+    "model": "SG1251J",
+    "name": "Wall Chaser",
+    "image": "https://makita.in/wp-content/uploads/2021/01/SG1251.jpg"
+  },
+  {
+    "model": "TW004G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2021/01/TW004G_Product.jpg"
+  },
+  {
+    "model": "GA029G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/01/GA029G_1.jpg"
+  },
+  {
+    "model": "GA027G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/01/GA027G_1.jpg"
+  },
+  {
+    "model": "GA023G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/01/GA023G.jpg"
+  },
+  {
+    "model": "GA021G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2021/01/GA021G.jpg"
+  },
+  {
+    "model": "M2401B",
+    "name": "Portable Cut-off",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M2401B.jpg"
+  },
+  {
+    "model": "DDG460",
+    "name": "Cordless Earth Auger",
+    "image": "https://makita.in/wp-content/uploads/2020/12/DDG460.jpg"
+  },
+  {
+    "model": "JR001G",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/12/JR001G.jpg"
+  },
+  {
+    "model": "HS003G",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/12/HS003G.jpg"
+  },
+  {
+    "model": "HR003G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/12/HR003G.jpg"
+  },
+  {
+    "model": "HR001G",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/12/HR001G.jpg"
+  },
+  {
+    "model": "GA013G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/12/GA013G.jpg"
+  },
+  {
+    "model": "GA011G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/12/GA011G.jpg"
+  },
+  {
+    "model": "GA005G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/12/GA005G.jpg"
+  },
+  {
+    "model": "GA003G",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/12/GA003G.jpg"
+  },
+  {
+    "model": "TW001G",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/12/TW001G.jpg"
+  },
+  {
+    "model": "HP001G",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/12/HP001G.jpg"
+  },
+  {
+    "model": "DF001G",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/12/DF001G.jpg"
+  },
+  {
+    "model": "DBS180",
+    "name": "Belt Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/12/DBS180.jpg"
+  },
+  {
+    "model": "TD001G",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2020/12/TD001G.jpg"
+  },
+  {
+    "model": "DUC254",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DUC254.jpg"
+  },
+  {
+    "model": "GA4050R",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/11/GA4050R.jpg"
+  },
+  {
+    "model": "UB100D",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/10/UB100D.jpg"
+  },
+  {
+    "model": "DCO181",
+    "name": "Cordless Cut-Out Tool",
+    "image": "https://makita.in/wp-content/uploads/2020/10/DCO181.jpg"
+  },
+  {
+    "model": "DCE090",
+    "name": "Cordless Power Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/10/DCE090.jpg"
+  },
+  {
+    "model": "AN613",
+    "name": "Pneumatic Coil Nailer",
+    "image": "https://makita.in/wp-content/uploads/2020/09/AN613.jpg"
+  },
+  {
+    "model": "M8701B",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/09/M8701.jpg"
+  },
+  {
+    "model": "M4500KB",
+    "name": "Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/09/M4500B.jpg"
+  },
+  {
+    "model": "TM3000C",
+    "name": "Multi Tool",
+    "image": "https://makita.in/wp-content/uploads/2020/09/TM3000CX1.jpg"
+  },
+  {
+    "model": "DUR190L",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUR190L.jpg"
+  },
+  {
+    "model": "DUR190U",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUR190U.jpg"
+  },
+  {
+    "model": "DUR369A",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUR369A.jpg"
+  },
+  {
+    "model": "DUR369N",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUR369N.jpg"
+  },
+  {
+    "model": "DVC155L",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DVC155L.jpg"
+  },
+  {
+    "model": "DVC660",
+    "name": "Cordless Backpack Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DVC660.jpg"
+  },
+  {
+    "model": "DVC865L",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DVC865L.jpg"
+  },
+  {
+    "model": "JR3051T",
+    "name": "Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/08/JR3051T.jpg"
+  },
+  {
+    "model": "DUN600L",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUN600L.jpg"
+  },
+  {
+    "model": "DUN500W",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUN500W.jpg"
+  },
+  {
+    "model": "DUH754S",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUH754S.jpg"
+  },
+  {
+    "model": "JR3061T",
+    "name": "Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/08/JR3061T.jpg"
+  },
+  {
+    "model": "DUH604S",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUH604S.jpg"
+  },
+  {
+    "model": "DSC102",
+    "name": "Cordless Threaded Rod Cutter",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DSC102.jpg"
+  },
+  {
+    "model": "DUB363",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUB363.jpg"
+  },
+  {
+    "model": "DUB186",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DUB186.jpg"
+  },
+  {
+    "model": "DTW700",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DTW700.jpg"
+  },
+  {
+    "model": "DTW300",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DTW300.jpg"
+  },
+  {
+    "model": "UR101C",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/UR101C.jpg"
+  },
+  {
+    "model": "DPP200",
+    "name": "Cordless Hole Puncher",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DPP200.jpg"
+  },
+  {
+    "model": "UR201C",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/UR201C.jpg"
+  },
+  {
+    "model": "DPB183",
+    "name": "Cordless Portable Band Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DPB183.jpg"
+  },
+  {
+    "model": "DMP180",
+    "name": "Cordless Inflator",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DMP180.jpg"
+  },
+  {
+    "model": "DLM533",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DLM533.jpg"
+  },
+  {
+    "model": "DVC665",
+    "name": "Cordless Backpack Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DVC665.jpg"
+  },
+  {
+    "model": "DLM532",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DLM532.jpg"
+  },
+  {
+    "model": "DTD156",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DTD156.jpg"
+  },
+  {
+    "model": "DLM530",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DLM530.jpg"
+  },
+  {
+    "model": "DRV250",
+    "name": "Cordless Rivet Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DRV250.jpg"
+  },
+  {
+    "model": "DLM462",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DLM462.jpg"
+  },
+  {
+    "model": "DRV150",
+    "name": "Cordless Rivet Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DRV150.jpg"
+  },
+  {
+    "model": "DLM432",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DLM432.jpg"
+  },
+  {
+    "model": "DLM382",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DLM382.jpg"
+  },
+  {
+    "model": "DKP181",
+    "name": "Cordless Planer",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DKP181.jpg"
+  },
+  {
+    "model": "DHS900",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DHS900.jpg"
+  },
+  {
+    "model": "DHK180",
+    "name": "Cordless Power Scraper",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DHK180.jpg"
+  },
+  {
+    "model": "DGA519",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DGA519.jpg"
+  },
+  {
+    "model": "DGA419",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DGA419.jpg"
+  },
+  {
+    "model": "DSC121",
+    "name": "Cordless Threaded Rod Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DSC121.jpg"
+  },
+  {
+    "model": "DFJ216",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DFJ216.jpg"
+  },
+  {
+    "model": "DCL184",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/08/DCL184.jpg"
+  },
+  {
+    "model": "CV102D",
+    "name": "Cordless Heated Vest",
+    "image": "https://makita.in/wp-content/uploads/2020/06/CV102D.jpg"
+  },
+  {
+    "model": "CJ106D",
+    "name": "Cordless Heated Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/CJ106D.jpg"
+  },
+  {
+    "model": "CJ105D",
+    "name": "Cordless Heated Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/CJ105D.jpg"
+  },
+  {
+    "model": "DFJ411",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/DFJ411.jpg"
+  },
+  {
+    "model": "DFJ410",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/DFJ410.jpg"
+  },
+  {
+    "model": "DFJ311",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/DFJ311.jpg"
+  },
+  {
+    "model": "DFJ310",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/DFJ310.jpg"
+  },
+  {
+    "model": "HP0300",
+    "name": "Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/06/HP0300.jpg"
+  },
+  {
+    "model": "DF0300",
+    "name": "Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/06/DF0300.jpg"
+  },
+  {
+    "model": "DCB200",
+    "name": "Cordless Heated Blanket",
+    "image": "https://makita.in/wp-content/uploads/2020/06/DCB200.jpg"
+  },
+  {
+    "model": "CL183D",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/02/CL183D.jpg"
+  },
+  {
+    "model": "DCF201",
+    "name": "Cordless Fan",
+    "image": "https://makita.in/wp-content/uploads/2020/02/DCF201.jpg"
+  },
+  {
+    "model": "DCF102",
+    "name": "Cordless Fan",
+    "image": "https://makita.in/wp-content/uploads/2020/02/DCF102.jpg"
+  },
+  {
+    "model": "DML800",
+    "name": "Rechargeable Flashlight",
+    "image": "https://makita.in/wp-content/uploads/2020/02/DML800.jpg"
+  },
+  {
+    "model": "M4000B",
+    "name": "Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M4000B.jpg"
+  },
+  {
+    "model": "M3600B",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M3600B.jpg"
+  },
+  {
+    "model": "M3601B",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M3601B.jpg"
+  },
+  {
+    "model": "M3700B",
+    "name": "Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M3700B.jpg"
+  },
+  {
+    "model": "M1902B",
+    "name": "Planer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M1902B.jpg"
+  },
+  {
+    "model": "M4301B",
+    "name": "Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M4301B.jpg"
+  },
+  {
+    "model": "M4302B",
+    "name": "Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M4302B.jpg"
+  },
+  {
+    "model": "M5801B",
+    "name": "Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M5801B.jpg"
+  },
+  {
+    "model": "M9400B",
+    "name": "Belt Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9400B.jpg"
+  },
+  {
+    "model": "M9202B",
+    "name": "Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9202B.jpg"
+  },
+  {
+    "model": "M9201B",
+    "name": "Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9201B.jpg"
+  },
+  {
+    "model": "M9200B",
+    "name": "Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9200B.jpg"
+  },
+  {
+    "model": "M9100B",
+    "name": "Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9100B.jpg"
+  },
+  {
+    "model": "M0921B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0921B.jpg"
+  },
+  {
+    "model": "M0920B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0920B.jpg"
+  },
+  {
+    "model": "M9511B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9511B.jpg"
+  },
+  {
+    "model": "M9508B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9508B-1.jpg"
+  },
+  {
+    "model": "M9002B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9002B.jpg"
+  },
+  {
+    "model": "M9513B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9513B.jpg"
+  },
+  {
+    "model": "M9512B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9512B.jpg"
+  },
+  {
+    "model": "M9509B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9509B.jpg"
+  },
+  {
+    "model": "M0910B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0910B.jpg"
+  },
+  {
+    "model": "M9506B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M9506B.jpg"
+  },
+  {
+    "model": "M0900B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0900B.jpg"
+  },
+  {
+    "model": "M4101B",
+    "name": "Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M4101B.jpg"
+  },
+  {
+    "model": "M4100B",
+    "name": "Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M4100B.jpg"
+  },
+  {
+    "model": "M0401B",
+    "name": "Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0401B.jpg"
+  },
+  {
+    "model": "M2402B",
+    "name": "Portable Cut-off",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M2402.jpg"
+  },
+  {
+    "model": "M8600B",
+    "name": "Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M8600B.jpg"
+  },
+  {
+    "model": "M8700B",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M8700B.jpg"
+  },
+  {
+    "model": "M6600B",
+    "name": "Mixer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M6600B.jpg"
+  },
+  {
+    "model": "M0801B",
+    "name": "Hammer Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0801B.jpg"
+  },
+  {
+    "model": "M6200B",
+    "name": "Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M6200B.jpg"
+  },
+  {
+    "model": "M6202XB",
+    "name": "Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M6202XB.jpg"
+  },
+  {
+    "model": "M6501B",
+    "name": "High Speed Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M6501B.jpg"
+  },
+  {
+    "model": "M0600B",
+    "name": "Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/02/M0600B.jpg"
+  },
+  {
+    "model": "HW131",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW131.jpg"
+  },
+  {
+    "model": "HW132",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW132.jpg"
+  },
+  {
+    "model": "HW1300",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW1300.jpg"
+  },
+  {
+    "model": "HW1200",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW1200.jpg"
+  },
+  {
+    "model": "HW111",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW111.jpg"
+  },
+  {
+    "model": "HW102",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW102.jpg"
+  },
+  {
+    "model": "HW101",
+    "name": "High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HW101.jpg"
+  },
+  {
+    "model": "ELM4621",
+    "name": "Electric Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/02/ELM4621.jpg"
+  },
+  {
+    "model": "ELM4121",
+    "name": "Electric Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/02/ELM4121.jpg"
+  },
+  {
+    "model": "ELM3720",
+    "name": "Electric Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2020/02/ELM3720.jpg"
+  },
+  {
+    "model": "UH6570",
+    "name": "Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UH6570.jpg"
+  },
+  {
+    "model": "UH5261",
+    "name": "Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UH5261.jpg"
+  },
+  {
+    "model": "UH4261",
+    "name": "Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UH4261.jpg"
+  },
+  {
+    "model": "UC4550A",
+    "name": "Electric Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UC4550A.jpg"
+  },
+  {
+    "model": "UC4041A",
+    "name": "Electric Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UC4041A.jpg"
+  },
+  {
+    "model": "UR3501",
+    "name": "Electric Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UR3501.jpg"
+  },
+  {
+    "model": "LD080P",
+    "name": "Laser Distance Measure",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LD080P.jpg"
+  },
+  {
+    "model": "LD050P",
+    "name": "Laser Distance Measure",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LD050P.jpg"
+  },
+  {
+    "model": "LD030P",
+    "name": "Laser Distance Measure",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LD030P.jpg"
+  },
+  {
+    "model": "HG6530V",
+    "name": "Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HG6530V.jpg"
+  },
+  {
+    "model": "HG6030K",
+    "name": "Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HG6030K.jpg"
+  },
+  {
+    "model": "HG5030K",
+    "name": "Heat Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HG5030K.jpg"
+  },
+  {
+    "model": "AF506",
+    "name": "Pneumatic Brad Nailer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/AF506.jpg"
+  },
+  {
+    "model": "UB1102",
+    "name": "Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/02/UB1102.jpg"
+  },
+  {
+    "model": "VC3210LX1",
+    "name": "Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/02/VC3210LX1.jpg"
+  },
+  {
+    "model": "VC2510LX1",
+    "name": "Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/02/VC2510LX1.jpg"
+  },
+  {
+    "model": "RP1800",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2020/02/RP1800.jpg"
+  },
+  {
+    "model": "RP2301FC",
+    "name": "Router",
+    "image": "https://makita.in/wp-content/uploads/2020/02/RP2301FC.jpg"
+  },
+  {
+    "model": "3709",
+    "name": "Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/3709.jpg"
+  },
+  {
+    "model": "RT0700C",
+    "name": "Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/RT0700C1.jpg"
+  },
+  {
+    "model": "2012NB",
+    "name": "Planer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/2012NB.jpg"
+  },
+  {
+    "model": "PJ7000",
+    "name": "Plate Joiner",
+    "image": "https://makita.in/wp-content/uploads/2020/02/PJ7000.jpg"
+  },
+  {
+    "model": "1911B",
+    "name": "Power Planer",
+    "image": "https://makita.in/wp-content/uploads/2020/02/1911B-1.jpg"
+  },
+  {
+    "model": "SJ401",
+    "name": "Scroll Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/SJ401.jpg"
+  },
+  {
+    "model": "LB1200F",
+    "name": "Band Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LB1200F.jpg"
+  },
+  {
+    "model": "JR3070CT",
+    "name": "Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/JR3070CT.jpg"
+  },
+  {
+    "model": "4327",
+    "name": "Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/4327.jpg"
+  },
+  {
+    "model": "4350CT",
+    "name": "Jig Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/4350CT.jpg"
+  },
+  {
+    "model": "SP6000",
+    "name": "Plunge Cut Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/SP6000.jpg"
+  },
+  {
+    "model": "5402NA",
+    "name": "Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/5402NA.jpg"
+  },
+  {
+    "model": "HS0600",
+    "name": "Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HS0600.jpg"
+  },
+  {
+    "model": "N5900B",
+    "name": "Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/N5900B-1.jpg"
+  },
+  {
+    "model": "HS7600",
+    "name": "Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HS7600.jpg"
+  },
+  {
+    "model": "HS7010",
+    "name": "Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/HS7010.jpg"
+  },
+  {
+    "model": "MLT100",
+    "name": "Table Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/MLT100.jpg"
+  },
+  {
+    "model": "2712",
+    "name": "Table Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/2712.jpg"
+  },
+  {
+    "model": "LS1040",
+    "name": "Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LS1040.jpg"
+  },
+  {
+    "model": "LS1045",
+    "name": "Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LS1045.jpg"
+  },
+  {
+    "model": "LS1221",
+    "name": "Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LS1221.jpg"
+  },
+  {
+    "model": "LS1019L",
+    "name": "Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LS1019L.jpg"
+  },
+  {
+    "model": "LS1219L",
+    "name": "Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/02/LS1219L.jpg"
+  },
+  {
+    "model": "BO6030",
+    "name": "Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/BO6030.jpg"
+  },
+  {
+    "model": "BO5031",
+    "name": "Random Orbit Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/BO5031.jpg"
+  },
+  {
+    "model": "BO4556",
+    "name": "Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/BO4556.jpg"
+  },
+  {
+    "model": "BO3710",
+    "name": "Finishing Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/BO3710.jpg"
+  },
+  {
+    "model": "9741",
+    "name": "Wheel Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/9741.jpg"
+  },
+  {
+    "model": "9031",
+    "name": "Belt Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/9031.jpg"
+  },
+  {
+    "model": "9032",
+    "name": "Belt Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/02/9032.jpg"
+  },
+  {
+    "model": "GB801",
+    "name": "Bench Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GB801.jpg"
+  },
+  {
+    "model": "GB602",
+    "name": "Bench Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GB602.jpg"
+  },
+  {
+    "model": "GS5000",
+    "name": "Straight Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GS5000.jpg"
+  },
+  {
+    "model": "GS6000",
+    "name": "Straight Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GS6000.jpg"
+  },
+  {
+    "model": "GD0801C",
+    "name": "Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GD0801C.jpg"
+  },
+  {
+    "model": "GD0601",
+    "name": "Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GD0601.jpg"
+  },
+  {
+    "model": "GD0603",
+    "name": "Die Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GD0603.jpg"
+  },
+  {
+    "model": "PC5010C",
+    "name": "Concrete Planer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/PC5010C.jpg"
+  },
+  {
+    "model": "PC5000C",
+    "name": "Concrete Planer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/PC5000C.jpg"
+  },
+  {
+    "model": "PW5001C",
+    "name": "Stone Polisher",
+    "image": "https://makita.in/wp-content/uploads/2020/01/PW5001C.jpg"
+  },
+  {
+    "model": "PO5000C",
+    "name": "Random Orbit Polisher",
+    "image": "https://makita.in/wp-content/uploads/2020/01/PO5000C.jpg"
+  },
+  {
+    "model": "9237C",
+    "name": "Polisher",
+    "image": "https://makita.in/wp-content/uploads/2020/01/9237C.jpg"
+  },
+  {
+    "model": "SA7000C",
+    "name": "Angle Sander",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SA7000C-1.jpg"
+  },
+  {
+    "model": "GA7050",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA7050.jpg"
+  },
+  {
+    "model": "GA7050R",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA7050R.jpg"
+  },
+  {
+    "model": "GA9020",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA9020.jpg"
+  },
+  {
+    "model": "GA7020",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA7020.jpg"
+  },
+  {
+    "model": "GA9060",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA9060.jpg"
+  },
+  {
+    "model": "GA7060",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA7060.jpg"
+  },
+  {
+    "model": "GA9061",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA9061.jpg"
+  },
+  {
+    "model": "GA7061",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA7061.jpg"
+  },
+  {
+    "model": "GA9061R",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA9061R.jpg"
+  },
+  {
+    "model": "GA7061R",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA7061R.jpg"
+  },
+  {
+    "model": "GA9040S",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA9040S.jpg"
+  },
+  {
+    "model": "9558HN",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/9558HNR.jpg"
+  },
+  {
+    "model": "GA5010",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA5010.jpg"
+  },
+  {
+    "model": "GA5040R",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA5040R.jpg"
+  },
+  {
+    "model": "9565CR",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/9565CR.jpg"
+  },
+  {
+    "model": "GA4040",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA4040.png"
+  },
+  {
+    "model": "GA5020C",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA5020C.jpg"
+  },
+  {
+    "model": "9556HB",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/9556HB.jpg"
+  },
+  {
+    "model": "GA4032",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/GA4032.png"
+  },
+  {
+    "model": "9553B",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/9553B.jpg"
+  },
+  {
+    "model": "9553NB",
+    "name": "Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/9553NB.jpg"
+  },
+  {
+    "model": "JN3201",
+    "name": "Nibbler",
+    "image": "https://makita.in/wp-content/uploads/2020/01/JN3201.jpg"
+  },
+  {
+    "model": "JN1601",
+    "name": "Nibbler",
+    "image": "https://makita.in/wp-content/uploads/2020/01/JN1601.jpg"
+  },
+  {
+    "model": "JS3201",
+    "name": "Metal Shear",
+    "image": "https://makita.in/wp-content/uploads/2020/01/JS3201.jpg"
+  },
+  {
+    "model": "JS1601",
+    "name": "Straight Metal Shear",
+    "image": "https://makita.in/wp-content/uploads/2020/01/JS1601.jpg"
+  },
+  {
+    "model": "JS1602",
+    "name": "Metal Shear",
+    "image": "https://makita.in/wp-content/uploads/2020/01/JS1602.jpg"
+  },
+  {
+    "model": "LW1401",
+    "name": "Portable Cut-off",
+    "image": "https://makita.in/wp-content/uploads/2020/01/LW1401.jpg"
+  },
+  {
+    "model": "LW1400",
+    "name": "Portable Cut-off",
+    "image": "https://makita.in/wp-content/uploads/2020/01/LW1400.jpg"
+  },
+  {
+    "model": "4131",
+    "name": "Metal Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/4131-1.jpg"
+  },
+  {
+    "model": "LC1230",
+    "name": "Metal Cutting Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/LC1230.jpg"
+  },
+  {
+    "model": "4114S",
+    "name": "Angle Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/4114S.jpg"
+  },
+  {
+    "model": "4112HS",
+    "name": "Angle Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/4112HS-1.jpg"
+  },
+  {
+    "model": "4100KB",
+    "name": "Dustless Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/4100KB-1.jpg"
+  },
+  {
+    "model": "HM1812",
+    "name": "Electric Breaker",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HM1812.jpg"
+  },
+  {
+    "model": "HK1820",
+    "name": "Power Scraper",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HK1820.jpg"
+  },
+  {
+    "model": "HM1306",
+    "name": "Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HM1306.jpg"
+  },
+  {
+    "model": "HM1213C",
+    "name": "Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HM1213C.jpg"
+  },
+  {
+    "model": "HM0870C",
+    "name": "Demolition Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HM0870C.jpg"
+  },
+  {
+    "model": "HR4003C",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR4003C.jpg"
+  },
+  {
+    "model": "HR4013C",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR4013C.jpg"
+  },
+  {
+    "model": "HR2810",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR2810.jpg"
+  },
+  {
+    "model": "HR2650",
+    "name": "Combination Hammer with Self Dust Collection",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR2650.jpg"
+  },
+  {
+    "model": "HR2630",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR2630.jpg"
+  },
+  {
+    "model": "HR2470",
+    "name": "Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR2470.jpg"
+  },
+  {
+    "model": "HR5202C",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR5202C.jpg"
+  },
+  {
+    "model": "HR4002",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR4002.jpg"
+  },
+  {
+    "model": "HR2020",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR2020.jpg"
+  },
+  {
+    "model": "HR2230",
+    "name": "Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR2230.jpg"
+  },
+  {
+    "model": "HP2070",
+    "name": "2-Speed Hammer Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HP2070.jpg"
+  },
+  {
+    "model": "HP1630",
+    "name": "Hammer Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HP1630-1.jpg"
+  },
+  {
+    "model": "HB500",
+    "name": "Magnetic Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HB500.jpg"
+  },
+  {
+    "model": "TW1000",
+    "name": "Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW1000.jpg"
+  },
+  {
+    "model": "6906",
+    "name": "Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/6906.jpg"
+  },
+  {
+    "model": "TW0200",
+    "name": "Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW0200-1.jpg"
+  },
+  {
+    "model": "TW0350",
+    "name": "Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW0350.jpg"
+  },
+  {
+    "model": "FS2700",
+    "name": "Screwdriver",
+    "image": "https://makita.in/wp-content/uploads/2020/01/FS2700.jpg"
+  },
+  {
+    "model": "TB131",
+    "name": "Drilling Machine",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TB131.jpg"
+  },
+  {
+    "model": "DBM131",
+    "name": "Diamond Core Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DBM131.jpg"
+  },
+  {
+    "model": "DBM230",
+    "name": "Diamond Core Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DBM230.jpg"
+  },
+  {
+    "model": "DA3010F",
+    "name": "Angle Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DA3010F.jpg"
+  },
+  {
+    "model": "DP4010",
+    "name": "2-Speed Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DP4010.jpg"
+  },
+  {
+    "model": "6412",
+    "name": "Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/6412.jpg"
+  },
+  {
+    "model": "DP2010",
+    "name": "High Speed Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DP2010.jpg"
+  },
+  {
+    "model": "TD0101",
+    "name": "Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TD0101.jpg"
+  },
+  {
+    "model": "TD022D",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TD022D.jpg"
+  },
+  {
+    "model": "DF001D",
+    "name": "In-Line Cordless Screwdriver",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DF001D.jpg"
+  },
+  {
+    "model": "DF012D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DF012D.jpg"
+  },
+  {
+    "model": "TW100D",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW100D.jpg"
+  },
+  {
+    "model": "CB100D",
+    "name": "Cordless Heated Blanket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/CB100D.jpg"
+  },
+  {
+    "model": "DCV202",
+    "name": "Cordless Heated Vest",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCV202.jpg"
+  },
+  {
+    "model": "DCJ206",
+    "name": "Cordless Heated Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCJ206.jpg"
+  },
+  {
+    "model": "DCJ205",
+    "name": "Cordless Heated Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCJ205.jpg"
+  },
+  {
+    "model": "DFV210",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DFV210-1.jpg"
+  },
+  {
+    "model": "DFJ214",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DFJ214.jpg"
+  },
+  {
+    "model": "DFJ213",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DFJ213.jpg"
+  },
+  {
+    "model": "DFJ212",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DFJ212.jpg"
+  },
+  {
+    "model": "DFJ211",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DFJ211.jpg"
+  },
+  {
+    "model": "DFJ210",
+    "name": "Cordless Fan Jacket",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DFJ210.jpg"
+  },
+  {
+    "model": "CF101D",
+    "name": "Cordless Fan",
+    "image": "https://makita.in/wp-content/uploads/2020/01/CF101D.jpg"
+  },
+  {
+    "model": "MP100D",
+    "name": "Cordless Inflator",
+    "image": "https://makita.in/wp-content/uploads/2020/01/MP100D.jpg"
+  },
+  {
+    "model": "WR100D",
+    "name": "Cordless Ratchet Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/WR100D.jpg"
+  },
+  {
+    "model": "CL107FD",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/01/CL107FD.jpg"
+  },
+  {
+    "model": "CG100D",
+    "name": "Cordless Caulking Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/01/CG100D.jpg"
+  },
+  {
+    "model": "PT354D",
+    "name": "Cordless Pin Nailer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/PT354D.jpg"
+  },
+  {
+    "model": "SD100D",
+    "name": "Cordless Drywall Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SD100D.jpg"
+  },
+  {
+    "model": "JR103D",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/JR103D.jpg"
+  },
+  {
+    "model": "TM30D",
+    "name": "Cordless Multi Tool",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TM30D.jpg"
+  },
+  {
+    "model": "CP100D",
+    "name": "Cordless Multi Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/CP100D.jpg"
+  },
+  {
+    "model": "CC301D",
+    "name": "Cordless Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/CC301D.jpg"
+  },
+  {
+    "model": "HR140D",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR140D.jpg"
+  },
+  {
+    "model": "HR166D",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HR166D.jpg"
+  },
+  {
+    "model": "TW060D",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW060D.jpg"
+  },
+  {
+    "model": "TW140D",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW140D.jpg"
+  },
+  {
+    "model": "TW161D",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW161D.jpg"
+  },
+  {
+    "model": "TW160D",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TW160D.jpg"
+  },
+  {
+    "model": "TL065D",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TL065D.jpg"
+  },
+  {
+    "model": "TL064D",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TL064D.jpg"
+  },
+  {
+    "model": "TD110D",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TD110D.jpg"
+  },
+  {
+    "model": "TD111D",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2020/01/TD111D.jpg"
+  },
+  {
+    "model": "DA332D",
+    "name": "Cordless Angle Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DA332D.jpg"
+  },
+  {
+    "model": "DA333D",
+    "name": "Cordless Angle Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DA333D.jpg"
+  },
+  {
+    "model": "HP332D",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HP332D.jpg"
+  },
+  {
+    "model": "HP333D",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HP333D.jpg"
+  },
+  {
+    "model": "HP331D",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/HP331D.jpg"
+  },
+  {
+    "model": "DF032D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DF032D.jpg"
+  },
+  {
+    "model": "DF332D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DF332D.jpg"
+  },
+  {
+    "model": "DF333D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DF333D.jpg"
+  },
+  {
+    "model": "DF331D",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DF331D.jpg"
+  },
+  {
+    "model": "SK105GD",
+    "name": "Soft bag, Adapter, Target Plate",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SK105GD.jpg"
+  },
+  {
+    "model": "SK105D",
+    "name": "Rechargeable Red Cross Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SK105D.jpg"
+  },
+  {
+    "model": "SK106D",
+    "name": "Rechargeable Green 4-point Cross Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SK106D.jpg"
+  },
+  {
+    "model": "SK106GD",
+    "name": "Rechargeable Green 4-point Cross Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SK106GD.jpg"
+  },
+  {
+    "model": "SK209GD",
+    "name": "Rechargeable Green Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SK209GD.jpg"
+  },
+  {
+    "model": "SK312GD",
+    "name": "Rechargeable Green Multi Line Laser",
+    "image": "https://makita.in/wp-content/uploads/2020/01/SK312GD.jpg"
+  },
+  {
+    "model": "DML805",
+    "name": "Corded and Cordless LED Worklight",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DML805.jpg"
+  },
+  {
+    "model": "DUB184",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DUB184.jpg"
+  },
+  {
+    "model": "DUB183",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DUB183.jpg"
+  },
+  {
+    "model": "DVF104",
+    "name": "Cordless Garden Sprayer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DVF104.jpg"
+  },
+  {
+    "model": "DVF154",
+    "name": "Cordless Garden Sprayer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DVF154.jpg"
+  },
+  {
+    "model": "DUH602",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DUH602.jpg"
+  },
+  {
+    "model": "DUH502",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DUH502.jpg"
+  },
+  {
+    "model": "DCU180",
+    "name": "Battery Powered Wheelbarrow",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCU180.jpg"
+  },
+  {
+    "model": "DUR187L",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DUR187L.jpg"
+  },
+  {
+    "model": "DCL180",
+    "name": "Cordless Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCL180.jpg"
+  },
+  {
+    "model": "DPO500",
+    "name": "Cordless Random Orbit Polisher",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DPO500.jpg"
+  },
+  {
+    "model": "DCG180",
+    "name": "Cordless Caulking Gun",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCG180.jpg"
+  },
+  {
+    "model": "DVP180",
+    "name": "Cordless Vacuum Pump",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DVP180.jpg"
+  },
+  {
+    "model": "DRT50",
+    "name": "Cordless Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DRT50.jpg"
+  },
+  {
+    "model": "DSD180",
+    "name": "Cordless Drywall Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DSD180.jpg"
+  },
+  {
+    "model": "DJR188",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DJR188.jpg"
+  },
+  {
+    "model": "DJR186",
+    "name": "Cordless Recipro Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DJR186.jpg"
+  },
+  {
+    "model": "DLS600",
+    "name": "Cordless Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DLS600.jpg"
+  },
+  {
+    "model": "DHS475",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DHS475.jpg"
+  },
+  {
+    "model": "DTM51",
+    "name": "Cordless Multi Tool",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DTM51.jpg"
+  },
+  {
+    "model": "DGA517",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DGA517.jpg"
+  },
+  {
+    "model": "DGA417",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DGA417.jpg"
+  },
+  {
+    "model": "DGA511",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DGA511-.jpg"
+  },
+  {
+    "model": "DGA411",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DGA411.jpg"
+  },
+  {
+    "model": "DGA513",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DGA513.jpg"
+  },
+  {
+    "model": "DGA413",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DGA413.jpg"
+  },
+  {
+    "model": "DPB182",
+    "name": "Cordless Portable Band Saw",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DPB182.jpg"
+  },
+  {
+    "model": "DJS161",
+    "name": "Cordless Straight Shear",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DJS161-1.jpg"
+  },
+  {
+    "model": "DCS551",
+    "name": "Cordless Metal Cutter",
+    "image": "https://makita.in/wp-content/uploads/2020/01/DCS551.jpg"
+  },
+  {
+    "model": "SC103D",
+    "name": "Cordless Threaded Rod Cutter",
+    "image": "https://makita.in/wp-content/uploads/2019/12/SC103D.jpg"
+  },
+  {
+    "model": "DTR180",
+    "name": "Cordless Rebar Tying Tool",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTR180.jpg"
+  },
+  {
+    "model": "DSC191",
+    "name": "Cordless Steel Rod Cutter",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DSC191.jpg"
+  },
+  {
+    "model": "DHR165",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHR165.jpg"
+  },
+  {
+    "model": "DHR171",
+    "name": "Cordless Rotary Hammer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHR171.jpg"
+  },
+  {
+    "model": "DHR202",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHR202.jpg"
+  },
+  {
+    "model": "DHR241",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHR241.jpg"
+  },
+  {
+    "model": "DFS251",
+    "name": "Cordless Screwdriver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DFS251.jpg"
+  },
+  {
+    "model": "DFS250",
+    "name": "Cordless Screwdriver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DFS250.jpg"
+  },
+  {
+    "model": "DTL063",
+    "name": "Cordless Angle Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTL063.jpg"
+  },
+  {
+    "model": "DTW181",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTW181.jpg"
+  },
+  {
+    "model": "DTW190",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTW190.jpg"
+  },
+  {
+    "model": "DTW251",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTW251.jpg"
+  },
+  {
+    "model": "DTW285",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTW285.jpg"
+  },
+  {
+    "model": "DTW450",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTW450.jpg"
+  },
+  {
+    "model": "DTW1002",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTW1002.jpg"
+  },
+  {
+    "model": "DTD155",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTD155.jpg"
+  },
+  {
+    "model": "DTD152",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTD152.jpg"
+  },
+  {
+    "model": "DTD153",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTD153.jpg"
+  },
+  {
+    "model": "DTD154",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTD154.jpg"
+  },
+  {
+    "model": "DTD171",
+    "name": "Cordless Impact Driver",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DTD171.jpg"
+  },
+  {
+    "model": "DHP483",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHP483.jpg"
+  },
+  {
+    "model": "DHP453",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHP453.jpg"
+  },
+  {
+    "model": "DHP485",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHP485.jpg"
+  },
+  {
+    "model": "DHP482",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHP482.jpg"
+  },
+  {
+    "model": "DHP484",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHP484.jpg"
+  },
+  {
+    "model": "DHP458",
+    "name": "Cordless Hammer Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHP458.jpg"
+  },
+  {
+    "model": "DDF083",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF083.jpg"
+  },
+  {
+    "model": "DDF483",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF483.jpg"
+  },
+  {
+    "model": "DDF453",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF453.jpg"
+  },
+  {
+    "model": "DDF485",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF485.jpg"
+  },
+  {
+    "model": "DDF482",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF482.jpg"
+  },
+  {
+    "model": "DDF484",
+    "name": "Cordless Driver Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDF484.jpg"
+  },
+  {
+    "model": "DUH651",
+    "name": "Cordless Hedge Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUH651.jpg"
+  },
+  {
+    "model": "DUB361",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUB361.jpg"
+  },
+  {
+    "model": "DUB362",
+    "name": "Cordless Blower",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUB362.jpg"
+  },
+  {
+    "model": "DUP362",
+    "name": "Battery Powered Pruning Shears",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUP362.jpg"
+  },
+  {
+    "model": "DUP361",
+    "name": "Battery Powered Pruning Shears",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUP361.jpg"
+  },
+  {
+    "model": "DLM460",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DLM460.jpg"
+  },
+  {
+    "model": "DLM431",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DLM431.jpg"
+  },
+  {
+    "model": "DLM380",
+    "name": "Cordless Lawn Mower",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DLM380.jpg"
+  },
+  {
+    "model": "DUR368L",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUR368L.jpg"
+  },
+  {
+    "model": "DUR368A",
+    "name": "Cordless Grass Trimmer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUR368A.jpg"
+  },
+  {
+    "model": "DUX60",
+    "name": "Cordless Multi Function Power Head",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUX60.jpg"
+  },
+  {
+    "model": "DDA460",
+    "name": "Cordless Angle Drill",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DDA460.jpg"
+  },
+  {
+    "model": "DGA701",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DGA701.jpg"
+  },
+  {
+    "model": "DHR280",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHR280.jpg"
+  },
+  {
+    "model": "DLW140",
+    "name": "Cordless Portable Cut-off",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DLW140.jpg"
+  },
+  {
+    "model": "DUC356",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUC356.jpg"
+  },
+  {
+    "model": "DUC353",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUC353.jpg"
+  },
+  {
+    "model": "DUC355",
+    "name": "Cordless Chain Saw",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DUC355.jpg"
+  },
+  {
+    "model": "DHW080",
+    "name": "Cordless High Pressure Washer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHW080.jpg"
+  },
+  {
+    "model": "DVC151L",
+    "name": "Corded and Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DVC151L.jpg"
+  },
+  {
+    "model": "DVC150L",
+    "name": "Corded and Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DVC150L.jpg"
+  },
+  {
+    "model": "DVC862L",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DVC862L.jpg"
+  },
+  {
+    "model": "DVC864L",
+    "name": "Cordless Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DVC864L.jpg"
+  },
+  {
+    "model": "DVC261",
+    "name": "Cordless Backpack Vacuum Cleaner",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DVC261.jpg"
+  },
+  {
+    "model": "DSP600",
+    "name": "Cordless Plunge Cut Saw",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DSP600.jpg"
+  },
+  {
+    "model": "DLS714",
+    "name": "Cordless Slide Compound Miter Saw",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DLS714.jpg"
+  },
+  {
+    "model": "DGA700",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DGA700.jpg"
+  },
+  {
+    "model": "DWT310",
+    "name": "Cordless Shear Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DWT310.jpg"
+  },
+  {
+    "model": "DGA901",
+    "name": "Cordless Angle Grinder",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DGA901.jpg"
+  },
+  {
+    "model": "DHR282",
+    "name": "Cordless Combination Hammer",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHR282-1-1.jpg"
+  },
+  {
+    "model": "DHS783",
+    "name": "Cordless Circular Saw",
+    "image": "https://makita.in/wp-content/uploads/2019/12/DHS783.jpg"
+  },
+  {
+    "model": "DTW1001",
+    "name": "Cordless Impact Wrench",
+    "image": "https://makita.in/wp-content/uploads/2019/10/DTW1001.jpg"
+  }
+]

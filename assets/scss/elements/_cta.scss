@@ -1,0 +1,179 @@
+// call to action area start
+
+.cta-main-wrapper-one{
+    display: flex;
+    align-items: center;
+    background: #17161B;
+    padding: 60px;
+    border-radius: 7px;
+    position: relative;
+    z-index: 1;
+    @media #{$large-mobile} {
+        padding: 25px;
+    }
+    &::after{
+        position: absolute;
+        left: 0;
+        top: 0;
+        content: '';
+        background-image: url(../images/cta/01.png) !important;
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+        background-size: contain;
+    }
+    .icon{
+        margin-right: 20px;
+        width: 120px;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #17161B;
+        position: relative;
+        z-index: 1;
+        border-radius: 50%;
+        @media #{$small-mobile} {
+            height: 90px;
+            width: 90px;
+        }
+        &::after{
+            width: 90px;
+            height: 90px;
+            position: absolute;
+            content: '';
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: #212025;
+            z-index: -1;
+            border-radius: 50%;
+            @media #{$small-mobile} {
+                width: 60px;
+                height: 60px;
+            }
+        }
+    }
+    .info-area{
+        span{
+            color: var(--color-primary);
+            font-family: var(--font-secondary);
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+        }
+        h4.title{
+            font-weight: 700;
+            font-size: 30px;
+            line-height: 40px;
+            font-family: "Exo", sans-serif;
+            color: #fff;
+            margin-top: 7px;
+            margin-bottom: 8px;
+            @media #{$sm-layout} {
+                font-size: 22px;
+                line-height: 34px;
+            }
+            @media #{$large-mobile} {
+                font-size: 22px;
+                line-height: 34px;
+            }
+            @media #{$small-mobile} {
+                font-size: 16px;
+                line-height: 26px;
+            }
+        }
+        p{
+            color: #676767;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+        }
+    }
+    &.cta_primary{
+        background: var(--color-primary);
+        &::after{
+            background-image: url(../images/cta/02.png);
+        }
+        .icon{
+            background: var(--color-primary);
+            svg{
+                path{
+                    fill: var(--color-primary);
+                }
+            }
+            &::after{
+                background: #FFFFFF;
+            }
+        }
+        .info-area{
+            span{
+                color: #FFFFFF;
+            }
+            p{
+                color: #FFFFFF;
+            }
+        }
+    }
+}
+
+.bg-cta-two{
+    background-image: url(../images/about/04.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cta-two-main-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @media #{$sm-layout} {
+        flex-direction: column;
+        gap: 30px;
+        align-items: flex-start;
+    }
+    .title-area-left{
+        p{
+            margin-bottom: 35px;
+        }
+        .title{
+            color: #fff;
+            margin-bottom: 0;
+        }
+    }
+    .cta-button-area{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        @media #{$large-mobile} {
+            flex-direction: column;
+            gap: 15px;
+            align-items: flex-start;
+        }
+    }
+}
+
+
+.index-electrical{
+    .cta-two-main-wrapper{
+        .cta-button-area{
+            .rts-btn.btn-border{
+                border-color: transparent;
+                border: none;
+                background: var(--color-primary);
+                &::before{
+                    background: #1f1f25;
+                }
+                &:hover{
+                    background: #1f1f25;
+                    border-color: #1f1f25;
+                    &::before{
+                        background: var(--color-primary);
+                    }
+                }
+            }
+        }
+    }
+}
+

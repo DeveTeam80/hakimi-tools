@@ -1,0 +1,201 @@
+
+// working process atyle hear
+
+.rts-single-working-process{
+    background-image: url(../images/working-process/01.png);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 386px;
+    padding: 50px 40px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    @media #{$smlg-device} {
+        padding: 25px;
+    }
+    &:hover{
+        .icon{
+            background: var(--color-primary);
+            svg{
+                path{
+                    fill: #fff;
+                }
+            }
+        }
+    }
+    &::after{
+        position: absolute;
+        content: "";
+        left: 50%;
+        top: 55%;
+        transform: translate(-50%, -50%);
+        height: 100%;
+        width: 100%;
+        background: #00000052;
+        filter: blur(120px);
+        border-radius: 50%;
+        z-index: -1;
+        opacity: 0.35;
+    }
+    .icon{
+        width: 100px;
+        height: 100px;
+        background: #edf1fe;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 27px;
+        margin-left: auto;
+        margin-right: auto;
+        transition: .3s;
+        svg{
+            path{
+                fill: var(--color-primary);
+                transition: .3s;
+            }
+        }
+    }
+    .content{
+        .title{
+            @media #{$smlg-device} {
+                font-size: 22px;
+            }
+        }
+        p.disc{
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+        }
+        .step_number{
+            position: absolute;
+            bottom: -15px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 55px;
+            height: 55px;
+            background: var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            span{
+                color: #fff;
+                font-weight: 700;
+                font-size: 20px;
+                line-height: 30px;
+            }
+        }
+    }
+}
+
+
+.bg_process{
+    background: #171717;
+}
+
+
+.rts-working-process-area-t{
+    .title-area-center{
+        p.pre{
+            margin-bottom: 20px;
+        }
+        .title{
+            color: #fff;
+        }
+    }
+}
+
+
+.sorking-steps-wrapper-mian-t{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+    @media #{$md-layout} {
+        justify-content: center;
+    }
+    @media #{$sm-layout} {
+        justify-content: center;
+    }
+    .single-working-steps{
+        text-align: center;
+        .icon{
+            height: 180px;
+            width: 180px;
+            border-radius: 50%;
+            background: #272727;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            margin: auto;
+            margin-bottom: 50px;
+            transition: .3s;
+            span{
+                width: 70px;
+                height: 70px;
+                background: #F47629;
+                border-radius: 50%;
+                color: #fff;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: absolute;
+                top: -20px;
+                left: -20px;
+                z-index: 5;
+                border: 10px solid #171717;
+                transition: .3s;
+                z-index: 1;
+            }
+            svg{
+                path{
+                    fill: #fff;
+                    transition: .3s;
+                }
+            }
+            &::after{
+                position: absolute;
+                content: '';
+                height: 220px;
+                width: 220px;
+                border-radius: 50%;
+                border: 2px dashed rgba(255, 255, 255, 0.1);
+                border-radius: 50%;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                transition: .3s;
+            }
+        }
+        .title{
+            color: #fff;
+            margin-bottom: 13px;
+            transition: .3s;
+        }
+        &:hover{
+            .icon{
+                background: #fff;
+                svg{
+                    path{
+                        fill: var(--color-primary);
+                    }
+                }
+                &::after{
+                    border-color: var(--color-primary);
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+// common style of this website
+.title-area-left{
+    text-align: left;
+    p.pre{
+        color: var(--color-primary);
+        letter-spacing: 0.04em;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 15px;
+        font-family: var(--font-primary);
+        margin-bottom: 25px;
+        span{
+            padding: 3px 7px;
+            background: var(--color-primary);
+            border-radius: 3px;
+            color: #fff;
+        }
+    }
+    .title{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        color: #1F1F25;
+        margin-top: -12px;
+        @media #{$smlg-device} {
+            font-size: 36px;
+            line-height: 50px;
+        }
+        @media #{$md-layout} {
+            font-size: 36px !important;
+            line-height: 50px;
+        }
+        @media #{$sm-layout} {
+            font-size: 32px;
+            line-height: 45px;
+        }
+        @media #{$large-mobile} {
+
+            font-size: 24px;
+            line-height: 36px;
+        
+        }
+        span{
+            color: var(--color-primary);
+        }
+    }
+}
+
+.title-area-center{
+    text-align: center;
+    p.pre{
+        color: var(--color-primary);
+        letter-spacing: 0.04em;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-family: var(--font-primary);
+        @media #{$large-mobile} {
+            font-size: 12px;
+        }
+        span{
+            padding: 3px 7px;
+            background: var(--color-primary);
+            border-radius: 3px;
+            color: #fff;
+        }
+    }
+    .title{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        color: #1F1F25;
+        margin-top: -12px;
+        @media #{$sm-layout} {
+            font-size: 32px;
+            line-height: 56px;
+        }
+        @media #{$large-mobile} {
+            font-size: 26px;
+            line-height: 38px;
+        }
+        span{
+            font-weight: 400;
+        }
+    }
+}
+
+p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: #74787C;
+}

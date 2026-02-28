@@ -1,0 +1,310 @@
+
+// header style hear
+
+header.header-one{
+    background: #F2F2F2;
+    position: relative;
+    .header--one-main{
+        position: relative;
+        .logo-area{
+            padding: 40px 10px 40px 0;
+            display: block;
+        }
+        .header-right-area{
+            display: flex;
+            justify-content: flex-end;
+            .single-info-contact{
+                display: flex;
+                align-items: center;
+                i{
+                    width: 57px;
+                    height: 57px;
+                    border-radius: 50%;
+                    background: #fff;
+                    box-shadow: 0px 11px 22px rgba(0, 0, 0, 0.03);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 24px;
+                    color: var(--color-primary);
+                }
+                .inner-content{
+                    margin-left: 20px;
+                    span{
+                        display: block;
+                        font-weight: 500;
+                        font-size: 14px;
+                        line-height: 17px;
+                        color: #74787C;
+                    }
+                    .title{
+                        margin-bottom: 0;
+                        font-weight: 600;
+                        font-size: 18px;
+                        line-height: 22px;
+                        margin-top: 6px;
+                        transition: .3s;
+                        min-width: max-content;
+                        @media #{$smlg-device} {
+                            font-size: 15px;
+                        }
+                        &:hover{
+                            color: var(--color-primary);
+                        }
+                    }
+                }
+                &.map{
+                    margin-left: 40px;
+                    padding-left: 40px;
+                    border-left: 1px solid #D9D9D9;
+                    @media #{$smlg-device} {
+                        margin-left: 20px;
+                        padding-left: 20px;
+                        border-left: 1px solid #D9D9D9;
+                    }
+                }
+            }
+            
+            .btn-area-header{
+                display: flex;
+                align-items: center;
+                margin-left: 60px;
+                @media #{$smlg-device} {
+                    margin-left: 20px;
+                }
+            }
+        }
+    }
+}
+
+.header-top-one{
+    @media #{$md-layout} {
+        display: none;
+    }
+    @media #{$sm-layout} {
+        display: none;
+    }
+}
+
+.logo-md-sm-device{
+    display: none;
+    @media #{$sm-layout} {
+        display: block;
+    }
+    .logo{
+        img{
+            max-width: 120px;
+        }
+    }
+}
+
+
+// header style
+
+header{
+    &.header-technician{
+        .header-top-wrapper{
+            padding: 15px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            @media #{$md-layout} {
+                display: none;
+            }
+            @media #{$sm-layout} {
+                display: none;
+            }
+            .left-area{
+                display: flex;
+                align-items: center;
+                svg{
+                    margin-right: 10px;
+                }
+                p{
+                    color: var(--color-primary);
+                }
+            }
+            .right{
+                display: flex;
+                align-items: center;
+                .map{
+                    display: flex;
+                    align-items: center;
+                    margin-right: 50px;
+                    a{
+                        color: #74787C;
+                        &:hover{
+                            color: var(--color-primary);
+                        }
+                    }
+                    i{
+                        margin-right: 10px;
+                    }
+                }
+                .email{
+                    i{
+                        margin-right: 10px;
+                    }
+                    a{
+                        color: #74787C;
+                        &:hover{
+                            color: var(--color-primary);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+// header two
+
+
+header.header-technician.header-two{
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+}
+
+.rts-header-area{
+    &.header-two{
+        position: relative;
+        .header-main-area.header--sticky.sticky{
+            top: 0;
+            border-radius: 0 0 0;
+            z-index: 100;
+            width: 100%;
+        }
+        .header-top-two{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 0 80px 0;
+            .left{
+                p{
+                    margin: 0;
+                    display: flex;
+                    align-items: center;
+                    color: #1F1F25;
+                    a{
+                        margin-left: 5px;
+                        font-weight: 500;
+                        font-size: 18px;
+                        color: #1f1f25;
+                    }
+                }
+            }
+            .right{
+                display: flex;
+                align-items: center;
+                .time-area{
+                    display: flex;
+                    align-items: center;
+                    margin-right: 30px;
+                    i{
+                        color: #1C2539;
+                    }
+                    p{
+                        margin: 0;
+                        color: #1C2539;
+                        margin-left: 15px;
+                    }
+                }
+                .social-header{
+                    display: flex;
+                    align-items: center;
+                    span{
+                        color: #1C2539;
+                        margin-right: 17px;
+                    }
+                    ul{
+                        padding: 0;
+                        margin: 0;
+                        display: flex;
+                        align-items: center;
+                        list-style: none;
+                        li{
+                            margin: 0 10px;
+                            a{
+                                i{
+                                    color: #1C2539;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .header-main-area{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 70px;
+            background: #fff;
+            box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.09);
+            border-radius: 0;
+            position: absolute;
+            width: 100%;
+            z-index: 5;
+            width: 77%;
+            top: 57px;
+            @media #{$extra-device} {
+                width: 86%;
+            }
+            @media #{$laptop-device} {
+                width: 97%;
+            }
+            @media #{$smlg-device} {
+                width: 100%;
+                border-radius: 0;
+            }
+            @media #{$md-layout} {
+                top: 0;
+            }
+            @media #{$sm-layout} {
+                top: 0;
+                padding: 15px 10px;
+            }
+            .button-action-area{
+                display: flex;
+                align-items: center;
+                a.rts-btn.btn-primary{
+                    // display: none;
+                    @media #{$smlg-device} {
+                        display: none;
+                    }
+                }
+                .actions-area{
+                    display: flex;
+                    align-items: center;
+                    gap: 25px;
+                    margin-right: 30px;
+                    .search-btn{
+                        cursor: pointer;
+                        i{
+                            color: #1F1F25;
+                        }
+                    }
+                    .menu-btn{
+                        cursor: pointer;
+                        i{
+                            color: #1F1F25;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.container-header{
+    padding: 0 220px;
+    display: flex;
+    justify-content: center;
+    @media #{$sm-layout} {
+        padding: 0;
+    }
+}
+

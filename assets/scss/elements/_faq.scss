@@ -1,0 +1,189 @@
+// faq styles hear start
+
+.faq-area-start-one{
+    .accordion{
+        .accordion-item{
+            background: #F6F6F6;
+            padding: 35px 40px;
+            margin-bottom: 20px;
+            box-shadow: none;
+            border: none;
+            @media #{$sm-layout} {
+                padding: 15px;
+            }
+            h2{
+                button{
+                    background: transparent;
+                    border: none;
+                    box-shadow: none;
+                    font-weight: 700;
+                    font-size: 22px;
+                    line-height: 29px;
+                    margin-bottom: 12px;
+                    margin-bottom: 0;
+                    @media #{$large-mobile} {
+                        font-size: 16px;
+                    }
+                }
+                .accordion-button{
+                    position: relative;
+                    &::after{
+                        display: none;
+                    }
+                    &[aria-expanded="true"]{
+                        color: #1F1F25;
+                        i{
+                            &::before{
+                                content: '\f077';
+                            }
+
+                        }
+                    }
+                    i{
+                        position: absolute;
+                        right: 0;
+                        top: 0;
+                        height: 50px;
+                        width: 50px;
+                        background: var(--color-primary);
+                        color: #fff;
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        @media #{$sm-layout} {
+                            height: 35px;
+                            width: 35px;
+                            font-size: 14px;
+                            top: 7px;
+                        }
+                    }
+                }
+            }
+            .accordion-body{
+                margin-top: 20px;
+                .inner{
+                    display: flex;
+                    align-items: center;
+                    gap: 20px;
+                    @media #{$laptop-device} {
+                        align-items: flex-start;
+                    }
+                    @media #{$smlg-device} {
+                        flex-direction: column;
+                    }
+                    .thumb-area{
+                        flex-basis: 70%;
+                        @media #{$laptop-device} {
+                            flex-basis: 100%;
+                        }
+                        @media #{$smlg-device} {
+                            width: 100%;
+                        }
+                        img{
+                            width: 100%;
+                            @media #{$smlg-device} {
+                                width: 100%;
+                            }
+                        }
+                    }
+                    .content{
+                        .title{
+                            margin-bottom: 5px;
+                            font-weight: 700;
+                            font-size: 16px;
+                            line-height: 19px;
+                            text-transform: uppercase;
+                            margin-bottom: 10px;
+                        }
+                        p.disc{
+                            font-weight: 400;
+                            font-size: 16px;
+                            line-height: 26px;
+                            color: #74787C;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+}
+
+
+.rts-single-wized{
+    text-align: center;
+    .thumbnail{
+        img{
+            width: 100%;
+        }
+    }
+    .title{
+        margin-bottom: 10px;
+        margin-top: 28px;
+    }
+    .opc{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #74787C;
+        margin-bottom: 10px;
+    }
+    a.rts-btn{
+        margin: auto;
+    }
+}
+
+
+.main-faq-inner-ac{
+    display: flex;
+    .left-thumbmail{
+        width: 100%;
+        min-width: max-content;
+        img{
+            width: 100%;
+            min-width: 100%;
+        }
+    }
+    .accordion-main-ac-wrapper{
+        position: relative;
+        z-index: 10;
+        width: 912px;
+        margin-left: -470px;
+        background: #F7F7F7;
+        border-radius: 10px;
+        padding: 100px 80px;
+        margin-top: 256px;
+        .accordion{
+            .accordion-item{
+                background: #fff;
+                border-radius: 10px;
+                margin-bottom: 20px;
+                border: none;
+                box-shadow: none;
+                
+                padding: 20px 30px;
+                .accordion-header{
+                    background: transparent;
+                    border: none;
+                    box-shadow: none;
+                    button{
+                        border: none;
+                        box-shadow: none;
+                        font-weight: 600;
+                        font-size: 18px;
+                        line-height: 22px;
+                        color: #1F1F25;
+                        &::after{
+                            display: none;
+                        }
+                        &[aria-expanded="true"]{
+                            border: none;
+                            background: transparent;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
